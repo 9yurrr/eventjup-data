@@ -397,68 +397,6 @@
   "url": "https://www.kalis.or.kr/www/brd/m_47/view.do?seq=1304"
  },
  {
-  "id": "ev-mois-parti-isolation",
-  "axis": "event",
-  "title": "모두의 토론회 의견 이벤트 — 고립이 위기가 되기 전에",
-  "host": "행정안전부 X 빠띠",
-  "what": "1등 네이버페이 10만원 2명, 2등 치킨 10명, 3등 커피 30명",
-  "prize_value": 100000,
-  "minutes": 5,
-  "conditions": [
-   "빠띠 회원가입 필요",
-   "본인인증 X",
-   "전화번호 입력"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "사회적 고립 해법 의견 남기고 투표하면 응모",
-   "제세공과금 본인 부담"
-  ],
-  "url": "https://campaigns.do/campaigns/2036"
- },
- {
-  "id": "ct-nts-eitc-shortform",
-  "axis": "contest",
-  "title": "근로·자녀장려금 숏폼 영상 공모전",
-  "host": "국세청",
-  "what": "대상 300만원, 총상금 800만원(5편)",
-  "prize_value": 3000000,
-  "minutes": 240,
-  "conditions": [
-   "AI 허용",
-   "누구나",
-   "본인 SNS 전체공개 업로드"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "9:16 세로, 20초 이상 60초 미만",
-   "분야: 제도 개편·수혜 경험·자유주제",
-   "23일 18시 마감, 결과 12월 중"
-  ],
-  "url": "https://ntseitc.spectory.net/shorts/contest"
- },
- {
-  "id": "ct-mfds-foodpoison-shortform",
-  "axis": "contest",
-  "title": "식중독 예방 숏폼 영상 공모전",
-  "host": "식품의약품안전처",
-  "what": "대상 200만원, 총 10편 550만원",
-  "prize_value": 2000000,
-  "minutes": 240,
-  "conditions": [
-   "AI 허용(사용 표기)",
-   "누구나",
-   "이메일 제출"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "식중독 예방 주제 20~59초 9:16 숏폼",
-   "영상·신청서·동의서 이메일 제출",
-   "23일 23:59 마감 (식약처 공식 인스타 공지)"
-  ],
-  "url": "https://www.instagram.com/p/DexvorQvOMK/"
- },
- {
   "id": "ct-mpb-fiscal-edu-idea",
   "axis": "contest",
   "title": "대국민 재정교육 아이디어 공모전",
@@ -700,25 +638,6 @@
   "url": "https://blog.naver.com/sjcu7/224467373183"
  },
  {
-  "id": "ev-sns-korailtravel-ig-1123",
-  "axis": "event",
-  "title": "출범기념 이벤트 2탄 10글자로 말해요",
-  "host": "코레일관광네트웍스",
-  "what": "커피 모바일 교환권 5천원 100명",
-  "prize_value": 5000,
-  "minutes": 2,
-  "conditions": [
-   "팔로우 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "띄어쓰기 빼고 정확히 10글자 응원 댓글",
-   "1인 1회"
-  ],
-  "url": "https://www.instagram.com/p/Df1UXldD7CW/"
- },
- {
   "id": "ev-sns-at-kimjang-1218",
   "axis": "event",
   "title": "KAMIS 김장 한 포기 더하기 이벤트",
@@ -921,26 +840,6 @@
   "url": "https://www.instagram.com/p/DfmAJlPiEiE/"
  },
  {
-  "id": "ev-sns-bupyeong-ig-1123",
-  "axis": "event",
-  "title": "부평구문화재단 20주년 영상 공유 이벤트",
-  "host": "부평구문화재단",
-  "what": "투썸 아메리카노 100명",
-  "minutes": 3,
-  "conditions": [
-   "팔로우 필요",
-   "공유 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-11-25",
-  "summary": [
-   "스토리로 공유하면 계정 태그",
-   "당첨자는 DM 양식으로 정보 입력"
-  ],
-  "url": "https://www.instagram.com/p/DfzFgp6j15Y/"
- },
- {
   "id": "ev-sns-keis-ig-1125",
   "axis": "event",
   "title": "한국고용정보원 유튜브 구독 인증 EVENT",
@@ -1083,28 +982,6 @@
   "url": "https://www.instagram.com/p/DflrN5SCfMv/"
  },
  {
-  "id": "ev-sns-suyeong-ig-1123",
-  "axis": "event",
-  "title": "초성으로 알아보는 겨울 축제",
-  "host": "부산광역시 수영구",
-  "what": "편의점 모바일 상품권 1만원",
-  "prize_value": 10000,
-  "minutes": 4,
-  "conditions": [
-   "팔로우 필요",
-   "좋아요 필요",
-   "댓글 필요",
-   "설문폼 제출 필요"
-  ],
-  "end_at": "2026-11-23",
-  "answer": "동백개화전",
-  "summary": [
-   "초성 ㄷㅂㄱㅎㅈ, 정답은 공식 해시태그 #동백개화전으로 확인",
-   "당첨 인원은 게시물에 없음"
-  ],
-  "url": "https://www.instagram.com/p/Dfrar1Up6wB/"
- },
- {
   "id": "ev-sns-namdaegu-ig-1130",
   "axis": "event",
   "title": "대구남구맛집 5회차 댓글 이벤트",
@@ -1126,24 +1003,6 @@
   "url": "https://www.instagram.com/p/DfmEQ1Zgaig/"
  },
  {
-  "id": "ev-sns-brezza-ig-1123",
-  "axis": "event",
-  "title": "베이비브레짜 육퇴 팔로우 이벤트",
-  "host": "베이비브레짜 코리아",
-  "what": "배달의민족 야식 쿠폰 50명",
-  "minutes": 2,
-  "conditions": [
-   "팔로우 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-11-27",
-  "summary": [
-   "육아 중 여유가 생기면 하고 싶은 것을 댓글로"
-  ],
-  "url": "https://www.instagram.com/reels/Dfyqdt3DrT6/"
- },
- {
   "id": "ev-sns-paseo-ig-1125",
   "axis": "event",
   "title": "파세오 11월 방송 퀴즈 이벤트",
@@ -1161,25 +1020,6 @@
    "파세오가 나온 방송 프로그램명을 댓글로"
   ],
   "url": "https://www.instagram.com/p/DfoNbywAWwo/"
- },
- {
-  "id": "ev-sns-namyang-ig-1123",
-  "axis": "event",
-  "title": "편안한두유 두유 타이밍 댓글 이벤트",
-  "host": "남양유업(남양투데이)",
-  "what": "편안한두유 검은콩 24개입 10명",
-  "minutes": 2,
-  "conditions": [
-   "팔로우 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-12-01",
-  "summary": [
-   "두유가 생각나는 순간을 댓글로",
-   "친구 태그는 확률 UP"
-  ],
-  "url": "https://www.instagram.com/p/DfjNmevnaND/"
  },
  {
   "id": "ev-sns-polident-ig-1129",
@@ -1218,47 +1058,6 @@
    "당첨자는 DM 안내"
   ],
   "url": "https://www.instagram.com/p/DfV_M4UPJqK/"
- },
- {
-  "id": "ev-sns-hrwc-ig-1123",
-  "axis": "event",
-  "title": "고준위 기본계획 공람 소문내기 이벤트",
-  "host": "고준위방사성폐기물관리위원회",
-  "what": "아메리카노 음료쿠폰 50명",
-  "minutes": 4,
-  "conditions": [
-   "팔로우 필요",
-   "공유 필요",
-   "친구 태그 필요",
-   "구글폼 제출 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-11-30",
-  "summary": [
-   "공유 화면을 캡처해 구글폼 제출"
-  ],
-  "url": "https://www.instagram.com/p/DfUAC_zEeZg/"
- },
- {
-  "id": "ev-sns-ulsanjunggu-ig-1123",
-  "axis": "event",
-  "title": "입화산 산림휴양관 OPEN 이벤트",
-  "host": "울산 중구(울산큰애기)",
-  "what": "배달의민족 1만원",
-  "prize_value": 10000,
-  "minutes": 3,
-  "conditions": [
-   "팔로우 필요",
-   "좋아요 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-11-25",
-  "summary": [
-   "휴양관 이름 초성 정답을 댓글로(앞 게시물 참고)",
-   "당첨 인원은 게시물에 없음"
-  ],
-  "url": "https://www.instagram.com/p/Dfyqhn5mFMR/"
  },
  {
   "id": "ev-sns-sobinet-ig-1125",
@@ -1382,27 +1181,6 @@
    "댓글·구독 캡처를 구글폼 제출"
   ],
   "url": "https://www.instagram.com/p/DflqWjIkhLM/"
- },
- {
-  "id": "ev-sns-kccglass-ig-1123",
-  "axis": "event",
-  "title": "KCC글라스 유튜브 구독 쇼츠 시청 인증 EVENT",
-  "host": "KCC글라스",
-  "what": "BBQ 황금올리브 10명, 메가커피 40명",
-  "minutes": 5,
-  "conditions": [
-   "구독 필요",
-   "좋아요 필요",
-   "네이버폼 제출 필요",
-   "댓글 필요"
-  ],
-  "end_at": "2026-11-23",
-  "announce_at": "2026-11-30",
-  "summary": [
-   "추천 쇼츠 1편 시청 인증",
-   "인스타에 '참여 완료' 댓글"
-  ],
-  "url": "https://www.instagram.com/p/DfjN1wtiTxL/"
  },
  {
   "id": "ev-sns-comeup-ig-1124",
@@ -1801,25 +1579,6 @@
    "당첨자는 추첨 후 31일 안에 통보"
   ],
   "url": "https://rog.asus.com/event/ace-your-setup-giveaway/"
- },
- {
-  "id": "ev-modu-kspo-budget-vote",
-  "axis": "event",
-  "title": "KSPO 예산성과 아이디어 공모 국민심사",
-  "host": "국민체육진흥공단",
-  "what": "모바일 상품권 5천원 150명 추첨",
-  "prize_value": 5000,
-  "minutes": 5,
-  "conditions": [
-   "로그인 필요",
-   "이름·휴대폰 입력"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "예산성과 아이디어 국민투표",
-   "개인정보 없이도 투표는 되지만 그러면 추첨 제외"
-  ],
-  "url": "https://modu.go.kr/fron/jdgmn/jdgmnView.do?menu_id=393&qustnr_id=43f6f888333a476f894c71ea7fd50673"
  },
  {
   "id": "ev-modu-kspo-newbiz-vote",
@@ -2393,28 +2152,6 @@
    "경품은 국내 휴대전화 번호로만 발송"
   ],
   "url": "https://www.youtube.com/watch?v=uZ0wKsJplas"
- },
- {
-  "id": "ev-sns-kiom-yt-1123",
-  "axis": "event",
-  "title": "한국한의학연구원 구독·감상 댓글 이벤트",
-  "host": "한국한의학연구원",
-  "what": "네이버페이 5,000원권 (20명)",
-  "prize_value": 5000,
-  "minutes": 5,
-  "conditions": [
-   "구독 필요",
-   "좋아요 필요",
-   "댓글 필요",
-   "구글폼 제출 필요"
-  ],
-  "end_at": "2026-11-23",
-  "summary": [
-   "채널 구독 후 영상 감상 댓글과 좋아요 남기기",
-   "구글폼까지 제출해야 참여 완료",
-   "당첨자 발표는 12월 중"
-  ],
-  "url": "https://www.youtube.com/watch?v=fb75LVV7jx4"
  },
  {
   "id": "ev-sns-concern-ig-1129",
@@ -5235,5 +4972,854 @@
    "프로필 링크 네이버 폼으로 응모"
   ],
   "url": "https://www.instagram.com/p/Df6BukVMvmV/"
+ },
+ {
+  "id": "ev-busanpa-youth-poster-vote",
+  "axis": "event",
+  "title": "청소년 인권 존중 포스터 공모전 국민심사",
+  "host": "부산항만공사",
+  "what": "디지털 온누리상품권 1만원 30명 추첨",
+  "prize_value": 10000,
+  "minutes": 3,
+  "conditions": [
+   "로그인 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "초·중·고등부 포스터 각 1개씩 투표(국민심사 30% 반영)",
+   "11/29(일) 18:00 마감",
+   "개인정보 미입력 시 투표는 되지만 경품 제외"
+  ],
+  "url": "https://modu.go.kr/fron/jdgmn/jdgmnView.do?menu_id=393&qustnr_id=a1f6f6e57c01422197abde255797151b"
+ },
+ {
+  "id": "ct-kto-budget-saving-idea",
+  "axis": "contest",
+  "title": "한국관광공사 예산 절감 아이디어 공모전",
+  "host": "한국관광공사",
+  "what": "우수 제안 온누리 모바일상품권(최대 30명), 추첨 네이버 1만원 기프티콘 100명",
+  "minutes": 20,
+  "conditions": [
+   "본인인증 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-21",
+  "summary": [
+   "관광 분야 예산 낭비·절감 아이디어 제출",
+   "심사 우수 최대 30명 + 추첨 100명",
+   "공사 국민제안 페이지(knto.or.kr/report/mng)에서 본인인증 후 제출"
+  ],
+  "url": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=204c0ff1-9a6a-4908-9304-be2c82c0affb"
+ },
+ {
+  "id": "ct-danjong-60th-slogan",
+  "axis": "contest",
+  "title": "제60회 단종문화제 슬로건 공모전",
+  "host": "(재)영월문화관광재단",
+  "what": "대상 100만원, 최우수 50만원, 우수 30만원, 장려 10만원(2명)",
+  "prize_value": 1000000,
+  "minutes": 20,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-17",
+  "announce_at": "2026-12-24",
+  "summary": [
+   "슬로건 10자 이내 + 의미 300자 이내, 1인 1건",
+   "국민 누구나, 네이버폼 접수",
+   "총상금 200만원"
+  ],
+  "url": "https://www.ywcf.or.kr/notices/3542"
+ },
+ {
+  "id": "ct-asan-platform-naming",
+  "axis": "contest",
+  "title": "『아산시 시민참여 온라인 플랫폼』 명칭 제안 공모",
+  "host": "아산시",
+  "what": "최우수 20만원·우수 10만원(아산페이), 참여자 추첨 120명 5천원 아산페이",
+  "prize_value": 200000,
+  "minutes": 10,
+  "conditions": [
+   "로그인 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-07",
+  "summary": [
+   "8글자 이내 명칭 + 제안사유, 1인 1건",
+   "응모자격 제한 없음(경품은 모바일 아산페이)",
+   "12/7(월) 18:00 마감, 12월 중 발표"
+  ],
+  "url": "https://www.asan.go.kr/main/cms/?no=131&m_mode=view&pds_no=2026112311135793823&tb_nm=city_news_notice"
+ },
+ {
+  "id": "ev-nhis-gangmoa-survey",
+  "axis": "event",
+  "title": "건강모아 서비스 만족도 조사 이벤트",
+  "host": "국민건강보험공단",
+  "what": "GS25 모바일상품권 1만원 250명 추첨",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "건강모아 서비스 만족도 설문 참여",
+   "공단 누리집 배너 또는 설문 링크로 참여",
+   "발표는 공단 누리집 공지사항"
+  ],
+  "url": "https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015&b_list=12&act=view&list_no=380634"
+ },
+ {
+  "id": "ev-koreakr-newsletter-survey",
+  "axis": "event",
+  "title": "정책브리핑 뉴스레터 「솔직히 어떠세요?」 설문 이벤트",
+  "host": "문화체육관광부 정책브리핑",
+  "what": "모바일 문화상품권 5만원 10명, 2만원 80명, 커피 쿠폰 200명",
+  "prize_value": 50000,
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰·이메일 입력",
+   "뉴스레터 수신 동의"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "뉴스레터 설문 5문항 응답",
+   "구독자·신규 가입 희망자 대상(응모 시 수신 동의)",
+   "발표는 정책브리핑 누리집"
+  ],
+  "url": "https://www.korea.kr/etc/byulbyulList.do?issue=JFKcPFHcDGJ000&period=ing"
+ },
+ {
+  "id": "ct-miryang-arirang-ai-poster",
+  "axis": "contest",
+  "title": "밀양아리랑대축제 AI 포스터 공모전",
+  "host": "밀양시",
+  "what": "최우수 50만원, 우수 20만원(2명)",
+  "prize_value": 500000,
+  "minutes": 60,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력",
+   "AI 허용"
+  ],
+  "end_at": "2026-12-11",
+  "announce_at": "2026-12-18",
+  "summary": [
+   "생성형 AI로 축제 홍보 포스터 이미지 제작(4:5 세로)",
+   "누구나 개인 1인 1점, 네이버폼 접수",
+   "12/11(금) 18:00 마감"
+  ],
+  "url": "https://www.miryang.go.kr/web/bbs/selectNoticeDetail.do?mnNo=20901000000&bbsId=BBSMSTR_000000000077&nttId=200431"
+ },
+ {
+  "id": "ct-eumseong-blog-2026",
+  "axis": "contest",
+  "title": "2026 음성군 블로그 공모전 「음·성」",
+  "host": "충북 음성군",
+  "what": "최우수 100만원, 우수 35만원(2명), 장려 10만원(3명)",
+  "prize_value": 1000000,
+  "minutes": 240,
+  "conditions": [
+   "로그인 X",
+   "블로그 게시 필요"
+  ],
+  "end_at": "2026-12-11",
+  "announce_at": "2026-12-18",
+  "summary": [
+   "음성군 당일치기 여행 후 본인 블로그에 여행기(사진 10장 이상)",
+   "게시 후 담당자 이메일로 신청서 송부",
+   "누구나 1인 1작품"
+  ],
+  "url": "https://blog.naver.com/eumseonggun/224479038500"
+ },
+ {
+  "id": "ct-gyeongnam-3d-webtoon-bg",
+  "axis": "contest",
+  "title": "2026 경남 3D 웹툰 배경 활용 사례 공모전",
+  "host": "알리아스(경남 3D 웹툰 배경 제작·배포 사업)",
+  "what": "최우수 30만원, 우수 20만원, 장려 10만원(2명)",
+  "prize_value": 300000,
+  "minutes": 180,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "무료 배포된 경남 3D 웹툰 배경 8종 중 1종 이상 활용, 6컷 이상",
+   "웹툰 창작에 관심 있는 누구나, 구글폼 접수",
+   "총상금 70만원"
+  ],
+  "url": "https://blog.naver.com/cre_ar/224479441199"
+ },
+ {
+  "id": "ct-kpetro-innovation-idea",
+  "axis": "contest",
+  "title": "2026년 K-Petro 대국민 혁신 아이디어 공모전",
+  "host": "한국석유관리원",
+  "what": "최우수 30만원, 우수 20만원, 장려 10만원",
+  "prize_value": 300000,
+  "minutes": 40,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-27",
+  "summary": [
+   "공공서비스·탄소중립·AI 데이터 분야 혁신 제안",
+   "국민 누구나, 신청서 작성 후 이메일 접수",
+   "결과는 12월 중 개별통보·홈페이지 공고"
+  ],
+  "url": "https://www.kpetro.or.kr/lay1/bbs/S1T52C254/A/1/view.do?article_seq=14904"
+ },
+ {
+  "id": "ct-sff-character-2026",
+  "axis": "contest",
+  "title": "서울미래인재재단 대표 캐릭터 공모전 「서울의 미래, 새로운 얼굴」",
+  "host": "서울미래인재재단",
+  "what": "6명(팀) 시상, 시상금 총 440만원",
+  "minutes": 240,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-10",
+  "summary": [
+   "캐릭터 기본 디자인 + 네이밍·스토리 + 활용 아이디어",
+   "개인 또는 4인 이하 팀 누구나, 1작품",
+   "공모전 홈페이지에서 양식 작성·업로드"
+  ],
+  "url": "https://sffcharacter.kr/"
+ },
+ {
+  "id": "ct-yeongam-wangin-poster-2027",
+  "axis": "contest",
+  "title": "2027 영암왕인문화축제 홍보물 디자인 공모전",
+  "host": "영암군·(재)영암문화관광재단",
+  "what": "대상 200만원, 최우수 100만원, 우수 30만원(2점), 장려 20만원(2점)",
+  "prize_value": 2000000,
+  "minutes": 300,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력",
+   "AI 허용"
+  ],
+  "end_at": "2026-12-07",
+  "announce_at": "2026-12-16",
+  "summary": [
+   "주제 「연결된 두 세계」 A2 세로형 메인 포스터 + 확장 시안",
+   "국민 누구나 개인 또는 3인 이내 팀, 이메일 접수(12/7 18:00)",
+   "생성형 AI는 보조 도구로만, 사용 내역 기재 필수"
+  ],
+  "url": "https://yacf.or.kr/notice/N.cs?act=view&ntId=547"
+ },
+ {
+  "id": "ev-sns-gjbukgu-blog-1206",
+  "axis": "event",
+  "title": "북구 캐릭터 이름을 맞춰주세요!",
+  "host": "전남광주 북구청",
+  "what": "네이버페이 5,000원 (100명)",
+  "prize_value": 5000,
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "북구 인스타그램·페이스북·유튜브 중 1곳 팔로우 후 스크린샷",
+   "캐릭터 이름 퀴즈 정답과 스크린샷을 네이버폼으로 제출"
+  ],
+  "answer": "부끄&부부",
+  "url": "https://blog.naver.com/gjbukgu/224488681292"
+ },
+ {
+  "id": "ev-sns-bgv-blog-1126",
+  "axis": "event",
+  "title": "2026 BGV QUIZ EVENT",
+  "host": "부산글로벌빌리지",
+  "what": "투썸 떠먹는 화이트 스초생 (블로그 30명), 컴포즈커피 아메리카노 (인스타 100명)",
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-26",
+  "announce_at": "2026-11-27",
+  "summary": [
+   "BGV 공식 블로그 이웃추가",
+   "부산형 어린이 영어교재 이름(E_______ W____)을 댓글로",
+   "당첨 후 11/30 오전 9시까지 개인정보 제출"
+  ],
+  "answer": "English Waves",
+  "url": "https://blog.naver.com/bgv_blog/224488622782"
+ },
+ {
+  "id": "ev-sns-kmilk-blog-1129",
+  "axis": "event",
+  "title": "진짜 K-MILK 인증마크를 찾아라!",
+  "host": "우유자조금관리위원회",
+  "what": "국산 원유 치즈 세트(5명), 뚜레쥬르 케이크(5명), 네이버페이 2만원(10명) 등 70명",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "회원가입 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "우유자조금 SNS 팔로우 후 이벤트 게시글 좋아요 인증샷",
+   "밀키하우스 회원가입 후 정답·인증샷 응모"
+  ],
+  "url": "https://blog.naver.com/checkoff7202/224488341455"
+ },
+ {
+  "id": "ev-sns-dgopera-blog-1213",
+  "axis": "event",
+  "title": "대구오페라하우스 SNS 만족도 조사",
+  "host": "대구오페라하우스",
+  "what": "배달의민족 1만원권(10명), 투썸 카페라떼(30명)",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-13",
+  "announce_at": "2026-12-14",
+  "summary": [
+   "네이버폼 SNS 만족도 설문 제출",
+   "추첨 40명 기프티콘"
+  ],
+  "url": "https://blog.naver.com/dgoperahouse/224488525586"
+ },
+ {
+  "id": "ev-sns-djjunggu-blog-1129",
+  "axis": "event",
+  "title": "중구할매랑 이웃혀유! 블로그 이웃 이벤트",
+  "host": "대전광역시 중구청",
+  "what": "메가커피 아메리카노 (30명)",
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "대전 중구 블로그 이웃추가",
+   "이벤트 게시물 공감 누르기",
+   "다른 게시글 댓글 많을수록 당첨 확률 UP"
+  ],
+  "url": "https://blog.naver.com/djjunggu8/224488712240"
+ },
+ {
+  "id": "ev-sns-dongjak-blog-1207",
+  "axis": "event",
+  "title": "동작 8경 주민 추천 이벤트",
+  "host": "동작구청",
+  "what": "배스킨라빈스 1만원권 (30명)",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-07",
+  "announce_at": "2026-12-14",
+  "summary": [
+   "동작구청 SNS 1곳 이상 구독",
+   "게시글에 동작구 명소 1곳+추천 이유 댓글",
+   "네이버폼에 구독·댓글 인증 제출(구민 아니어도 SNS 이용자 누구나)"
+  ],
+  "url": "https://blog.naver.com/dongjaksaran/224488439771"
+ },
+ {
+  "id": "ev-sns-kape-blog-1204",
+  "axis": "event",
+  "title": "KAPE 콘텐츠 퀴즈 풀고 축산물 선물 받기",
+  "host": "축산물품질평가원",
+  "what": "한우 모바일 기프티콘 15만원(1명), 한돈 5만원(3명), 구운란 30구(10명)",
+  "prize_value": 150000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-04",
+  "announce_at": "2026-12-08",
+  "summary": [
+   "콘텐츠 시리즈 이름 퀴즈 3문항",
+   "인스타 팔로우·블로그 이웃·유튜브 구독 중 1곳 이상 인증",
+   "구글폼에 휴대폰 번호 입력해 응모"
+  ],
+  "url": "https://blog.naver.com/ekapepia/224488331080"
+ },
+ {
+  "id": "ev-sns-hanamart-blog-1203",
+  "axis": "event",
+  "title": "2026 하남문화재단 SNS 만족도 조사 이벤트",
+  "host": "하남문화재단",
+  "what": "메가커피 HOT 아메리카노 (150명)",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-03",
+  "announce_at": "2026-12-10",
+  "summary": [
+   "하남문화재단 인스타그램 팔로우",
+   "SNS 만족도 조사 참여 후 '참여 완료' 댓글"
+  ],
+  "url": "https://blog.naver.com/hanamartcent/224488415915"
+ },
+ {
+  "id": "ev-sns-hellopolicy-blog-1206",
+  "axis": "event",
+  "title": "'어르신 정책' 홍보 캠페인 설문 이벤트",
+  "host": "대한민국 정부 공식블로그",
+  "what": "백화점 상품권 1만원(10명), 베이커리 5천원(20명), 편의점 2천원(150명)",
+  "prize_value": 10000,
+  "minutes": 12,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-11",
+  "summary": [
+   "드라마 《우리, 함께》 영상(약 7분) 시청",
+   "네이버폼 설문(3~5분) 정성 답변 후 추첨 180명"
+  ],
+  "url": "https://blog.naver.com/hellopolicy/224488788695"
+ },
+ {
+  "id": "ev-sns-mfds-blog-1203",
+  "axis": "event",
+  "title": "우리집 김장 꿀팁 소개 댓글 이벤트",
+  "host": "식품의약품안전처",
+  "what": "배달 앱 모바일 상품권 1만원 (50명)",
+  "prize_value": 10000,
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-12-03",
+  "summary": [
+   "식약처 인스타그램 팔로우",
+   "<김장의 조건> 숏폼 좋아요",
+   "숏폼 게시글에 김장 꿀팁+김장 안전 수칙 댓글"
+  ],
+  "url": "https://blog.naver.com/kfdazzang/224488523659"
+ },
+ {
+  "id": "ev-sns-kihf-blog-1129",
+  "axis": "event",
+  "title": "우리 가족에게 보내는 한마디 이벤트",
+  "host": "한국건강가정진흥원",
+  "what": "컴포즈커피 5,000원 기프티콘 (30명)",
+  "prize_value": 5000,
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "한국건강가정진흥원 인스타그램 팔로우",
+   "이벤트 게시물에 가족에게 전하는 한마디 댓글"
+  ],
+  "url": "https://blog.naver.com/kihfkorea/224488694419"
+ },
+ {
+  "id": "ev-sns-kogl-blog-1130",
+  "axis": "event",
+  "title": "공공누리 SNS 팔로우 이벤트",
+  "host": "공공누리(한국저작권위원회)",
+  "what": "네이버페이 5만원(2명), 1만원(5명), 이디야 아메리카노(5명)",
+  "prize_value": 50000,
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-03",
+  "summary": [
+   "공공누리 인스타·페이스북·블로그·유튜브·카카오톡 중 1곳 이상 팔로우",
+   "네이버폼 설문으로 팔로우 인증",
+   "팔로우 채널 많을수록 우선 추첨"
+  ],
+  "url": "https://blog.naver.com/kogl1/224488638189"
+ },
+ {
+  "id": "ev-sns-kwwa-blog-1130",
+  "axis": "event",
+  "title": "한국상하수도협회 SNS 구독자 EVENT",
+  "host": "한국상하수도협회",
+  "what": "BBQ 황금올리브 치킨 기프티콘 (5명)",
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-30",
+  "summary": [
+   "'맑은 물 세상' 소식지 읽고 협회 SNS 구독",
+   "네이버폼에 인증 사진 제출",
+   "구독 채널 많을수록 당첨 확률 UP"
+  ],
+  "url": "https://blog.naver.com/kwwapr/224488397107"
+ },
+ {
+  "id": "ev-sns-mofe-blog-1129",
+  "axis": "event",
+  "title": "이게모냥 김장재료 할인 퀴즈 EVENT",
+  "host": "재정경제부",
+  "what": "커피 쿠폰 (20명)",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-29",
+  "summary": [
+   "재정경제부 SNS 팔로우 후 이벤트 좋아요",
+   "김장철 농축산물 최대 40% 할인 대책 이름을 댓글로",
+   "블로그·인스타 동시 진행, 힌트는 인스타 '페이모아 경제일기장' 릴스"
+  ],
+  "url": "https://blog.naver.com/mofe_korea/224488448858"
+ },
+ {
+  "id": "ev-sns-myartmuseum-blog-0115",
+  "axis": "event",
+  "title": "<헌트 슬로넴 특별전: 헌토피아> 전시 기대평 이벤트",
+  "host": "마이아트뮤지엄 원그로브점",
+  "what": "전시 초대권 1인 2매 (20명)",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2027-01-15",
+  "announce_at": "2027-01-18",
+  "summary": [
+   "미술관 블로그 이웃추가",
+   "이벤트 게시물에 기대평 댓글",
+   "댓글 캡처를 네이버폼으로 제출(관람기간 2027.1.22~2.28, 서울 강서)"
+  ],
+  "url": "https://blog.naver.com/myartmuseumonegrove/224488985608"
+ },
+ {
+  "id": "ev-sns-s1-blog-1129",
+  "axis": "event",
+  "title": "에스원 창립 49주년 눈치게임 이벤트",
+  "host": "에스원",
+  "what": "커피 기프티콘 (100명)",
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-29",
+  "summary": [
+   "에스원 공식 인스타그램 팔로우",
+   "눈치게임 게시글에 1→9→7→7 댓글을 끊기지 않게 연속 작성",
+   "성공자 중 100명 추첨"
+  ],
+  "url": "https://blog.naver.com/s1corporation/224480577803"
+ },
+ {
+  "id": "ev-sns-jejusi-blog-1206",
+  "axis": "event",
+  "title": "12월 제주시 공식 SNS 채널 구독 이벤트",
+  "host": "제주시",
+  "what": "쿠팡이츠 2만원 모바일 상품권 (15명)",
+  "prize_value": 20000,
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "제주시 공식 유튜브·틱톡 구독",
+   "구독 화면 캡처를 구글폼으로 제출"
+  ],
+  "url": "https://blog.naver.com/wowjejusi/224488607287"
+ },
+ {
+  "id": "ev-sns-jejusi-onbaram-1130",
+  "axis": "event",
+  "title": "청년미래센터 온바람 응원 댓글 이벤트",
+  "host": "제주시",
+  "what": "할리스 기프티콘",
+  "minutes": 10,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-02",
+  "summary": [
+   "제주시청 유튜브 '문 앞의 아빠 | 제라진' 시청",
+   "고립·은둔 청년 응원 댓글 작성 후 참여 채널에 유튜브 아이디 기재"
+  ],
+  "url": "https://blog.naver.com/wowjejusi/224488623663"
+ },
+ {
+  "id": "ev-sns-hwangchon-blog-1206",
+  "axis": "event",
+  "title": "경주 황촌 숙박권 이벤트",
+  "host": "행복황촌 마을호텔",
+  "what": "황촌 1박 숙박권 최대 40만원(1명), 모바일 커피 쿠폰(5명)",
+  "prize_value": 400000,
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-08",
+  "summary": [
+   "인스타그램 @hwangchon_hotel 팔로우(만 19세 이상)",
+   "공식 릴스에 '팔로우 했어요 + 가고 싶은 숙소 이름' 댓글",
+   "친구 1명 태그 시 당첨 확률 2배, 숙박은 2026.12.10~2027.2.28"
+  ],
+  "url": "https://blog.naver.com/happyhwangchon/224488960435"
+ },
+ {
+  "id": "ct-global-arbiter-hacks-v1",
+  "axis": "contest",
+  "title": "아비터 해커톤 V1 – 자유 주제·폐기물 테마 (Arbiter Hacks V1)",
+  "host": "Arbiter / Devpost",
+  "what": "트랙별 1등 294만원 ($2,100), 2등 217만원 ($1,550), 총상금 $7,800",
+  "prize_value": 2940000,
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "만 13세 이상",
+   "팀 가능",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-21",
+  "summary": [
+   "자유 주제(일반) 트랙과 폐기물 줄이기·분리수거 테마 트랙 중 하나에 프로젝트 제출",
+   "공개 코드 저장소 + 2~3분 데모 영상 필수, 1~4명 팀",
+   "마감 12/20 21:00 PST(한국 12/21 14:00), 제외국에 한국 없음"
+  ],
+  "url": "https://arbiter-hacks-v1.devpost.com/"
+ },
+ {
+  "id": "ct-global-slay-hacks-2026",
+  "axis": "contest",
+  "title": "슬레이 해커톤 2026 – AI 실생활 문제 해결 (SLAY HACKS)",
+  "host": "SLAY HACKS / Devpost",
+  "what": "대상 280만원 ($2,000), 2등 168만원 ($1,200), 3등 112만원 ($800)",
+  "prize_value": 2800000,
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "성년 이상",
+   "AI 허용",
+   "팀 가능",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-08",
+  "summary": [
+   "AI를 활용해 실생활 문제를 푸는 프로젝트를 만들어 제출",
+   "첫 해커톤 참가자만의 Best Beginner Hack $500 별도",
+   "마감 12/7 17:00 EST(한국 12/8 07:00), 제외국에 한국 없음"
+  ],
+  "url": "https://slayy-hacks.devpost.com/"
+ },
+ {
+  "id": "ct-global-hackout-2027",
+  "axis": "contest",
+  "title": "핵아웃 2027 – 고등학생 기술로 세상 바꾸기 (HackOut! 2027)",
+  "host": "BranchOut! / Devpost",
+  "what": "대상 140만원 ($1,000), 분야별 우승 각 42만원 ($300), 지역사회 영향상 70만원 ($500)",
+  "prize_value": 1400000,
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "고등학생 한정",
+   "만 13~18세",
+   "팀 필수(2~4명)",
+   "AI 허용",
+   "계정 가입 필요"
+  ],
+  "end_at": "2027-02-01",
+  "summary": [
+   "금융·바이오·지속가능성·라이프스타일·양자 중 분야를 골라 사회에 도움 되는 프로젝트 제작",
+   "1월 1~31일에 만든 프로젝트만 인정, AI 도구는 사용 사실 공개하면 허용",
+   "어느 나라 학생이든 참가 가능(미국 제재국 제외), 마감 2/1 00:00 EST"
+  ],
+  "url": "https://hackout-branchout.devpost.com/"
+ },
+ {
+  "id": "ct-global-silicon-valley-buildathon",
+  "axis": "contest",
+  "title": "실리콘밸리 빌드어톤 – 아이디어를 시제품으로 (Silicon Valley Buildathon)",
+  "host": "Silicon Hacks Team / Devpost",
+  "what": "1등 70만원 ($500)",
+  "prize_value": 700000,
+  "minutes": 900,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "성년 이상",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-16",
+  "summary": [
+   "주제 제한 없이 대충 떠올린 아이디어를 작동하는 시제품으로 만들어 제출",
+   "초보자·노코드 프로젝트 환영, 온라인 진행",
+   "마감 12/15 23:45 EST(한국 12/16 13:45), 결과 12/21 발표 예정"
+  ],
+  "url": "https://silicon-valley-buildathon.devpost.com/"
+ },
+ {
+  "id": "ct-global-genhacks-2026",
+  "axis": "contest",
+  "title": "젠해커톤 – 학생 온라인 해커톤 (GenHacks)",
+  "host": "GenHacks / Devpost",
+  "what": "1등 캐나다달러 500 현금 + 개발 도구 크레딧, 총상금 CAD 1,050",
+  "minutes": 900,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "만 13세 이상",
+   "팀 가능",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-27",
+  "summary": [
+   "중고생·대학생 누구나 참가하는 온라인 해커톤, 주제 자유(IoT·AI 등)",
+   "어느 나라 학생이든 참가 가능(Devpost 표준 제외국만 제외)",
+   "마감 12/26 17:00 EST(한국 12/27 07:00)"
+  ],
+  "url": "https://genhacks-open.devpost.com/"
+ },
+ {
+  "id": "ct-global-launchpad-hacks",
+  "axis": "contest",
+  "title": "런치패드 해커톤 – 초보자 학생 해커톤 (LaunchPad Hacks)",
+  "host": "Hack4TodayOrg / Devpost",
+  "what": "1등 42만원 ($300) + 참가자 전원 개발 크레딧",
+  "prize_value": 420000,
+  "minutes": 900,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "성년 이상",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-05",
+  "summary": [
+   "출시할 만한 아이디어를 만들어 내는 초보자 대상 온라인 학생 해커톤",
+   "현금은 1등만, 2·3등은 갤러리 표시",
+   "마감 12/4 17:00 EST(한국 12/5 07:00)"
+  ],
+  "url": "https://launchpad-hacks.devpost.com/"
+ },
+ {
+  "id": "ct-global-safespace-hacks",
+  "axis": "contest",
+  "title": "세이프스페이스 해커톤 – 더 안전한 세상 만들기 (SafeSpace Hacks)",
+  "host": "SafeSpace / Devpost",
+  "what": "1등 39만 2천원 ($280)",
+  "prize_value": 392000,
+  "minutes": 900,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "학생 한정",
+   "성년 이상",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-10",
+  "summary": [
+   "사람·지역사회·시스템을 더 안전하게 만드는 프로젝트(보안·사회공헌 등) 제작",
+   "현금은 1등만, 2·3등은 명예상",
+   "마감 12/9 17:00 EST(한국 12/10 07:00)"
+  ],
+  "url": "https://safespace-hacks.devpost.com/"
+ },
+ {
+  "id": "ct-global-hetic-ai-agents-founders",
+  "axis": "contest",
+  "title": "창업자를 위한 AI 에이전트 챌린지 (AI Agents for Founders Challenge — HETIC 2026)",
+  "host": "HETIC / Devpost",
+  "what": "대상 600유로, 2등 250유로, 비판적 사고 설계상 150유로",
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "대학생 한정",
+   "성년 이상",
+   "팀 필수(2~4명)",
+   "계정 가입 필요"
+  ],
+  "end_at": "2026-12-19",
+  "summary": [
+   "창업자의 시간을 아껴주되 사람의 판단을 남기는 AI 에이전트를 설계·제작",
+   "대학 재학 증명 필요, 유료 AI 모델을 밝히지 않고 쓰면 실격",
+   "마감 12/18 17:00 파리 시간(한국 12/19 01:00), 1월 둘째 주 발표"
+  ],
+  "url": "https://ai-agents-founders-hetic-26.devpost.com/"
+ },
+ {
+  "id": "ct-global-developerweek-2027",
+  "axis": "contest",
+  "title": "디벨로퍼위크 2027 해커톤 (DeveloperWeek 2027 Hackathon)",
+  "host": "DevNetwork / Devpost",
+  "what": "종합 우승 상품(1만 2,500달러 상당 패스·기기), 후원사 챌린지별 현금 140만원 ($1,000)",
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "만 18세 이상",
+   "팀 가능",
+   "계정 가입 필요"
+  ],
+  "end_at": "2027-02-11",
+  "summary": [
+   "온라인 참가 가능(1/25~2/11), 시상은 미국 산타클라라 현장(2/9~11)",
+   "Red Hat·MESCIUS·Descope·Nimble 후원 챌린지는 1월 공개",
+   "국적 제한 없음, 1~5명 팀"
+  ],
+  "url": "https://developerweek-2027-hackathon.devpost.com/"
  }
 ]
