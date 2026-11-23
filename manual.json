@@ -3756,5 +3756,93 @@
    "이번 분기 마감은 미국 태평양 시간 12월 31일 자정."
   ],
   "url": "https://writersofthefuture.com/contest-rules-illustrator/"
+ },
+ {
+  "id": "ev-mohw-brand-sinchung-1204",
+  "axis": "event",
+  "title": "복지급여 신청주의 개선 정책브랜드 공모전",
+  "host": "보건복지부",
+  "what": "3만원 상당 상품권 (추첨 약 100명)",
+  "prize_value": 30000,
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "네이버폼 제출"
+  ],
+  "end_at": "2026-12-04",
+  "summary": [
+   "신청주의 개선 정책의 새 이름과 슬로건을 제안",
+   "포스터 QR 또는 네이버폼으로 제출, 추첨으로 약 100명에게 상품권",
+   "복지사업 개선 제안은 선택 사항"
+  ],
+  "url": "https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015&act=view&list_no=380646"
+ },
+ {
+  "id": "ev-sns-mohw-yt-1130b",
+  "axis": "event",
+  "title": "발달장애인 인식개선 캠페인 유튜브 댓글 응원 이벤트",
+  "host": "보건복지부",
+  "what": "배달의민족 1만원 상품권 (추첨 100명)",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "댓글 필요",
+   "좋아요 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "보건복지부TV 유튜브 구독",
+   "캠페인 영상 시청·좋아요 후 응원 댓글",
+   "구글폼 작성으로 참여 완료"
+  ],
+  "url": "https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015&act=view&list_no=380636"
+ },
+ {
+  "id": "ev-sns-kca-choking-1225",
+  "axis": "event",
+  "title": "KCA 글로벌 어린이 삼킴사고 예방 캠페인 이벤트",
+  "host": "한국소비자원",
+  "what": "투썸플레이스 모바일 커피 상품권 4,700원권 (200명 추첨)",
+  "prize_value": 4700,
+  "minutes": 10,
+  "conditions": [
+   "공유 필요",
+   "태그 필요",
+   "이름·휴대폰 입력",
+   "만 19세 이상"
+  ],
+  "end_at": "2026-12-25",
+  "announce_at": "2026-12-26",
+  "summary": [
+   "캠페인 포스터를 SNS에 해시태그 #CONSCIOUS_CHOKING #어린이삼킴사고예방 과 함께 전체 공개로 게시",
+   "어린이 삼킴사고 설문(네이버폼) 후 게시물 캡처·URL 제출, 게시물은 12/25까지 유지",
+   "12/26 이후 4주 이내 개별 문자 통보, 본인 명의 휴대폰만 가능"
+  ],
+  "url": "https://www.kca.go.kr/home/sub.do?menukey=4003&mode=view&no=1004582867"
+ },
+ {
+  "id": "ct-global-sony-wpa-series-2027",
+  "axis": "contest",
+  "title": "소니 월드 포토그래피 어워드 2027 시리즈 부문 (Sony World Photography Awards 2027 – Series competition)",
+  "host": "World Photography Organisation / Sony",
+  "what": "종합 우승 25,000달러 + 소니 카메라 장비, 런던 시상식 항공·숙박 + 개인전",
+  "prize_value": 35000000,
+  "minutes": 60,
+  "conditions": [
+   "해외 참가 가능",
+   "영어",
+   "참가비 없음",
+   "18세 이상",
+   "본명 필수"
+  ],
+  "end_at": "2027-01-12",
+  "summary": [
+   "5~10장으로 이뤄진 사진 시리즈를 부문별로 출품 (JPEG 1~5MB, sRGB, EXIF 유지)",
+   "참가 무료, 18세 이상, 실명 출품. 컴퓨터 생성 이미지는 원본으로 인정되지 않음",
+   "마감 2027-01-12 16:00 GMT (한국시간 2027-01-13 01:00)"
+  ],
+  "url": "https://www.worldphoto.org/pro"
  }
 ]
