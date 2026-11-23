@@ -3844,5 +3844,722 @@
    "마감 2027-01-12 16:00 GMT (한국시간 2027-01-13 01:00)"
   ],
   "url": "https://www.worldphoto.org/pro"
+ },
+ {
+  "id": "ev-sns-ig-cheongyang-newyear",
+  "axis": "event",
+  "title": "청양군 2027 새해소망 댓글 이벤트",
+  "host": "청양군청",
+  "what": "음료 기프티콘 1만원권 100명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "댓글 필요",
+   "팔로우 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-05",
+  "announce_at": "2026-12-08",
+  "summary": [
+   "2027년 새해소망과 목표를 댓글로 남긴다.",
+   "청양군 SNS(인스타·페이스북·블로그·카카오톡 채널) 중 1개 이상 팔로우.",
+   "프로필 링크의 네이버폼으로 인증샷 제출."
+  ],
+  "url": "https://www.instagram.com/p/DgECyTKEtFI/"
+ },
+ {
+  "id": "ev-sns-ig-heritage-40k",
+  "axis": "event",
+  "title": "국가유산채널 인스타그램 4만 명 돌파 기념 이벤트",
+  "host": "국가유산채널",
+  "what": "네이버페이 1만원권 20명",
+  "prize_value": 10000,
+  "minutes": 6,
+  "conditions": [
+   "팔로우 필요",
+   "태그 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-26",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "국가유산채널 인스타그램을 팔로우한다.",
+   "사랑하는 사람을 태그하고 홈페이지에서 인상 깊게 본 콘텐츠 제목을 댓글로 남긴다.",
+   "댓글을 캡처해 네이버 폼에 제출."
+  ],
+  "url": "https://www.instagram.com/p/Df6R7h6GQdg/"
+ },
+ {
+  "id": "ev-sns-ig-worldvision-logo",
+  "axis": "event",
+  "title": "월드비전 '후원을 멈추는 후원' 로고 사진 찾기",
+  "host": "월드비전",
+  "what": "다이소 모바일 금액권 1만원 20명",
+  "prize_value": 10000,
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "summary": [
+   "@worldvisionkorea를 팔로우한다.",
+   "로고가 들어간 사진이 몇 장인지 댓글로 남긴다.",
+   "당첨자는 고정 댓글과 DM으로 안내."
+  ],
+  "url": "https://www.instagram.com/p/DgE5qwCjCvE/"
+ },
+ {
+  "id": "ev-sns-ig-lavazza-swipe",
+  "axis": "event",
+  "title": "라바짜 숨겨진 원두 맞히기 이벤트",
+  "host": "라바짜 코리아",
+  "what": "네이버페이 포인트 2만원권 10명",
+  "prize_value": 20000,
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-02",
+  "summary": [
+   "@lavazzakr 팔로우 후 게시물 좋아요.",
+   "피드를 넘겨 확인한 원두 이름을 댓글로 남긴다.",
+   "스토리에 공유하면 당첨 확률이 올라간다."
+  ],
+  "url": "https://www.instagram.com/p/DgFAiGrTiwj/"
+ },
+ {
+  "id": "ev-sns-ig-wagework-follow",
+  "axis": "event",
+  "title": "임금직업포털 11월 팔로우 이벤트",
+  "host": "한국고용정보원 임금직업포털",
+  "what": "네이버페이 포인트 5,000원 100명",
+  "prize_value": 5000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-24",
+  "summary": [
+   "임금직업포털 공식 SNS를 팔로우한다.",
+   "구글폼에 팔로우 인증샷을 등록한다.",
+   "이벤트 게시물에 '참여완료' 댓글을 남긴다."
+  ],
+  "url": "https://www.instagram.com/p/Df3Tv9QPtk9/"
+ },
+ {
+  "id": "ev-sns-ig-inmm-follow",
+  "axis": "event",
+  "title": "국립인천해양박물관 인스타그램 팔로우 EVENT",
+  "host": "국립인천해양박물관",
+  "what": "배달의민족 1만원권 5명, 투썸 아메리카노 35명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "@inmm_official 팔로우 후 게시물 좋아요.",
+   "프로필 링크의 네이버폼에 팔로우 인증 화면을 첨부해 제출.",
+   "당첨자 발표일까지 팔로우 유지."
+  ],
+  "url": "https://www.instagram.com/p/Df0zu9WGRqS/"
+ },
+ {
+  "id": "ev-sns-ig-kita-export-quiz",
+  "axis": "event",
+  "title": "수출 1조 달러 기념 대국민 퀴즈 이벤트",
+  "host": "한국무역협회",
+  "what": "갤럭시탭 S11 1명, 백화점 상품권 20만원 3명, 네이버페이 3천원 2,000명",
+  "minutes": 8,
+  "conditions": [
+   "공유 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-03",
+  "summary": [
+   "만 14세 이상 누구나 참여.",
+   "프로필 링크의 구글폼에서 퀴즈를 푼다.",
+   "퀴즈 게시물을 SNS에 공유하고 캡처를 구글폼에 제출."
+  ],
+  "url": "https://www.instagram.com/p/Df8VwjQPZk0/"
+ },
+ {
+  "id": "ev-sns-ig-hampyeong-winter",
+  "axis": "event",
+  "title": "2026 함평 겨울빛축제 이모지 퀴즈 이벤트",
+  "host": "함평축제관광재단",
+  "what": "메가커피 HOT 카페모카 50명",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-08",
+  "summary": [
+   "함평축제관광재단 인스타그램 팔로우 후 게시물 좋아요.",
+   "퀴즈 정답을 댓글로 남긴다.",
+   "게시물의 QR코드로 접속해 개인정보를 제출."
+  ],
+  "url": "https://www.instagram.com/p/Df81I-Zk6dl/"
+ },
+ {
+  "id": "ev-sns-ig-namdo-ox",
+  "axis": "event",
+  "title": "전남광주 OX 퀴즈 이벤트",
+  "host": "남도여행길잡이",
+  "what": "올리브영 모바일 상품권 5,000원 5명",
+  "prize_value": 5000,
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "남도여행길잡이 공식 계정을 팔로우한다.",
+   "댓글에 O 또는 X를 남긴다.",
+   "정답자 중 추첨, 친구 태그 시 확률 UP."
+  ],
+  "url": "https://www.instagram.com/p/DgEn9MXD2S9/"
+ },
+ {
+  "id": "ev-sns-ig-seoulew-webzine",
+  "axis": "event",
+  "title": "청년ON-AIR 11월호 발간 기념 퀴즈 이벤트",
+  "host": "서울고용복지플러스센터",
+  "what": "투썸플레이스 아메리카노 기프티콘 50명",
+  "minutes": 4,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-24",
+  "announce_at": "2026-11-27",
+  "summary": [
+   "@moel_seoulew 팔로우 후 게시물 좋아요.",
+   "고용노동부 마스코트 이름을 댓글로 남긴다.",
+   "힌트는 웹진 11월호 12쪽."
+  ],
+  "url": "https://www.instagram.com/p/Df1MXpjA1SC/"
+ },
+ {
+  "id": "ev-sns-ig-persil-disc",
+  "axis": "event",
+  "title": "NEW 퍼실 디스크 출시 기념 퀴즈 이벤트",
+  "host": "퍼실코리아",
+  "what": "NEW 퍼실 디스크 1개 30명",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "좋아요 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-02",
+  "summary": [
+   "@persil_korea 팔로우 후 게시글 좋아요.",
+   "퀴즈 정답(파워 □□□□ 효소)을 댓글로 남긴다.",
+   "비공개 계정·대댓글 참여는 인정되지 않는다."
+  ],
+  "answer": "마이크로",
+  "url": "https://www.instagram.com/p/DgE-dKBtBSN/"
+ },
+ {
+  "id": "ev-sns-ig-cjheritage-quiz",
+  "axis": "event",
+  "title": "청주무형유산전수교육관 도로명 주소 퀴즈",
+  "host": "청주무형유산전수교육관",
+  "what": "BBQ 황올반+양념반+치즈볼 8명, 메가커피 아메리카노 45명",
+  "minutes": 4,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-01",
+  "announce_at": "2026-12-02",
+  "summary": [
+   "@cj.heritage1을 팔로우한다.",
+   "교육관의 도로명 주소를 댓글로 남긴다.",
+   "당첨 시 DM으로 성함·휴대폰 번호 수집."
+  ],
+  "url": "https://www.instagram.com/p/Df3iLHQT5MA/"
+ },
+ {
+  "id": "ev-sns-ig-namsan-project",
+  "axis": "event",
+  "title": "지속가능한 남산 프로젝트명 맞히기 EVENT",
+  "host": "지속가능한 남산",
+  "what": "CU 모바일상품권 1만원권 10명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "지속가능한 남산 인스타그램을 팔로우한다.",
+   "퀴즈 정답을 댓글로 남긴다.",
+   "프로필 링크의 구글 폼에서 인증·제출."
+  ],
+  "url": "https://www.instagram.com/p/Df3ZfcfjPLQ/"
+ },
+ {
+  "id": "ev-sns-ig-seed-quiz",
+  "axis": "event",
+  "title": "국립종자원 소통 퀴즈 EVENT",
+  "host": "국립종자원",
+  "what": "소정의 상품 3명",
+  "minutes": 2,
+  "conditions": [
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-04",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "2026년 대한민국우수품종상 대통령상 수상 품종을 3개 보기 중에서 고른다.",
+   "정답을 댓글로 남긴다."
+  ],
+  "url": "https://www.instagram.com/p/DgENfqQvlvS/"
+ },
+ {
+  "id": "ev-sns-ig-nyjcouncil-slogan",
+  "axis": "event",
+  "title": "남양주시의회 의정구호 퀴즈 이벤트",
+  "host": "남양주시의회",
+  "what": "파리바게뜨 상품권 1만원권 65명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "남양주시의회 SNS를 팔로우한다.",
+   "의정구호 빈칸 정답을 댓글로 남긴다.",
+   "정답 댓글과 팔로우 인증샷을 네이버폼에 제출."
+  ],
+  "url": "https://www.instagram.com/p/DgEJlxnDz0c/"
+ },
+ {
+  "id": "ev-sns-ig-kpx-bandi",
+  "axis": "event",
+  "title": "전력거래소 '반디가 하지 않는 일' 찾기",
+  "host": "전력거래소",
+  "what": "컴포즈커피 카페라떼(HOT) 30명",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-27",
+  "summary": [
+   "전력거래소 계정을 팔로우한다.",
+   "이미지 속 '반디가 하지 않는 일'을 찾아 댓글로 남긴다.",
+   "비공개·이벤트용 계정은 추첨 제외."
+  ],
+  "url": "https://www.instagram.com/p/Df0z07nyYN5/"
+ },
+ {
+  "id": "ev-sns-ig-yongintour-puzzle",
+  "axis": "event",
+  "title": "용인 명소 퍼즐 조각 찾기 이벤트 (와우정사)",
+  "host": "용인관광",
+  "what": "GS25 편의점 상품권 1만원권 20명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "용인관광 블로그·페이스북·인스타그램을 팔로우한다.",
+   "퀴즈 정답을 댓글로 달고 캡처한다.",
+   "네이버폼에 댓글 캡처와 팔로우 인증샷 첨부."
+  ],
+  "url": "https://www.instagram.com/p/Df59TSxCZrF/"
+ },
+ {
+  "id": "ev-sns-ig-geojecouncil-quiz",
+  "axis": "event",
+  "title": "거제시의회 퀴즈 이벤트",
+  "host": "거제시의회",
+  "what": "커피 기프티콘 1만원 65명",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-24",
+  "announce_at": "2026-11-26",
+  "summary": [
+   "거제시의회 인스타그램·유튜브·페이스북 중 1개 이상 팔로우(구독)하고 캡처.",
+   "캡처 화면과 퀴즈 정답을 네이버 폼으로 응모."
+  ],
+  "url": "https://www.instagram.com/p/Df1RNJ0FNTs/"
+ },
+ {
+  "id": "ev-sns-ig-ncs-survey",
+  "axis": "event",
+  "title": "NCS 인스타그램 만족도 조사 이벤트",
+  "host": "NCS 국가직무능력표준",
+  "what": "신세계 상품권 2만원권 30명",
+  "prize_value": 20000,
+  "minutes": 5,
+  "conditions": [
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-30",
+  "summary": [
+   "프로필 링크의 구글폼에서 설문에 참여한다.",
+   "제출하면 자동 응모, 1인 1회.",
+   "당첨자는 설문에 적은 연락처로 안내."
+  ],
+  "url": "https://www.instagram.com/p/Df4O7uQP90D/"
+ },
+ {
+  "id": "ev-sns-ig-hsmuseum-xmas",
+  "axis": "event",
+  "title": "화성시역사박물관 팔로워 4,400명 기념 크리스마스 소원 이벤트",
+  "host": "화성시 역사박물관",
+  "what": "투썸플레이스 아메리카노(HOT) R 37명",
+  "minutes": 4,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-27",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "화성시역사박물관 인스타그램을 팔로우한다.",
+   "댓글로 크리스마스 소원을 남긴다.",
+   "네이버폼에 쿠폰 받을 정보를 남긴다."
+  ],
+  "url": "https://www.instagram.com/p/Df9f4vBl29-/"
+ },
+ {
+  "id": "ev-sns-ig-nih-cheer",
+  "axis": "event",
+  "title": "국립보건연구원 연구자 응원 댓글 EVENT",
+  "host": "국립보건연구원",
+  "what": "투썸플레이스 스트로베리 초콜릿 생크림+아메리카노 R 20명",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "좋아요 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "국립보건연구원 계정을 팔로우한다.",
+   "연구자에게 전하는 응원 메시지를 댓글로 쓴다.",
+   "게시물 좋아요를 누르고 친구에게 알린다."
+  ],
+  "url": "https://www.instagram.com/p/DgFA6pak2YT/"
+ },
+ {
+  "id": "ev-sns-ig-kordi-survey",
+  "axis": "event",
+  "title": "한국노인인력개발원 SNS 만족도 조사",
+  "host": "한국노인인력개발원",
+  "what": "아이스 아메리카노 기프티콘 200명",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "summary": [
+   "한국노인인력개발원 SNS를 팔로우(구독)한다.",
+   "설문 링크에서 의견을 작성해 제출한다.",
+   "약 5분 소요, 1인 1회."
+  ],
+  "url": "https://www.instagram.com/p/Df8o8W6B-0W/"
+ },
+ {
+  "id": "ev-sns-ig-cbfez-facebook",
+  "axis": "event",
+  "title": "충북경자청 페이스북 팔로우 이벤트",
+  "host": "충북경제자유구역청",
+  "what": "메가MGC커피 아메리카노 기프티콘 100명",
+  "minutes": 4,
+  "conditions": [
+   "팔로우 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "충북경제자유구역청 페이스북을 팔로우한다.",
+   "팔로우 인증샷을 캡처한다.",
+   "프로필 링크의 네이버폼으로 인증샷 제출."
+  ],
+  "url": "https://www.instagram.com/p/Df59aMHvRoM/"
+ },
+ {
+  "id": "ev-sns-ig-mmk-sns-survey",
+  "axis": "event",
+  "title": "2026 하반기 국립해양박물관 SNS 만족도 설문조사 EVENT",
+  "host": "국립해양박물관",
+  "what": "커피 쿠폰",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-13",
+  "announce_at": "2026-12-15",
+  "summary": [
+   "국립해양박물관 인스타그램 팔로우 또는 블로그 이웃 추가.",
+   "링크(구글폼)에서 설문조사에 참여한다."
+  ],
+  "url": "https://www.instagram.com/p/DgESt7YHbe8/"
+ },
+ {
+  "id": "ev-sns-ig-mmk-exhibit-quiz",
+  "axis": "event",
+  "title": "국립해양박물관 전시 제목 맞히기 EVENT",
+  "host": "국립해양박물관",
+  "what": "투썸플레이스 스초생 5명 (인스타그램 기준)",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-13",
+  "announce_at": "2026-12-15",
+  "summary": [
+   "@_mmkofficial_을 팔로우한다.",
+   "퀴즈 정답을 이벤트 게시물 댓글로 남긴다.",
+   "블로그·페이스북·유튜브에서도 채널별 경품으로 동시 진행."
+  ],
+  "url": "https://www.instagram.com/p/Df9Abu0HVHW/"
+ },
+ {
+  "id": "ev-sns-ig-sijang-youth-survey",
+  "axis": "event",
+  "title": "2026 청년상인 홍보 설문조사 이벤트",
+  "host": "전통시장육성재단",
+  "what": "온누리상품권 10만원권 5명, 메가MGC커피 5천원권 100명",
+  "prize_value": 100000,
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-06",
+  "summary": [
+   "전통시장육성재단 인스타그램을 팔로우한다.",
+   "프로필 링크의 설문조사에 끝까지 응답해 제출.",
+   "별도 발표 없이 12/21 경품 발송."
+  ],
+  "url": "https://www.instagram.com/p/Df8dYwok3_5/"
+ },
+ {
+  "id": "ev-sns-ig-watercluster-survey",
+  "axis": "event",
+  "title": "국가물산업클러스터 SNS 채널 만족도 조사",
+  "host": "국가물산업클러스터",
+  "what": "CU 편의점 10,000원권 70명",
+  "prize_value": 10000,
+  "minutes": 6,
+  "conditions": [
+   "팔로우 필요",
+   "설문 제출 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "인스타그램·페이스북·블로그 중 2개 이상 팔로우.",
+   "구글폼으로 만족도 조사에 참여한다.",
+   "이벤트 게시물에 '참여완료' 댓글을 남긴다."
+  ],
+  "url": "https://www.instagram.com/p/Df1kNLwD01H/"
+ },
+ {
+  "id": "ev-sns-ig-geomdan-youtube",
+  "axis": "event",
+  "title": "검단구청 공식 유튜브 구독 이벤트",
+  "host": "검단구청",
+  "what": "배달의민족 상품권 3만원권 5명, 다이소 1만원권 10명, 메가MGC커피 100명",
+  "prize_value": 30000,
+  "minutes": 4,
+  "conditions": [
+   "구독 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "검단구청 공식 유튜브 채널을 구독한다.",
+   "구독 화면 인증샷을 캡처한다.",
+   "인스타그램 프로필 링크의 이벤트 페이지에서 제출."
+  ],
+  "url": "https://www.instagram.com/p/Df89kYzsAHj/"
+ },
+ {
+  "id": "ev-sns-ig-ebssw-renewal",
+  "axis": "event",
+  "title": "EBS 이솦 리뉴얼 기대평 이벤트",
+  "host": "EBS 이솦",
+  "what": "배달의민족 5만원권 3명, 올리브영 3만원권 2명, GS25 1만원권 19명",
+  "prize_value": 50000,
+  "minutes": 10,
+  "conditions": [
+   "팔로우 필요",
+   "공유 필요",
+   "폼 제출 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-12-01",
+  "summary": [
+   "이솦 공식 SNS 팔로우 또는 블로그 이웃 추가.",
+   "개인 SNS·블로그에 리뉴얼 소식과 기대평 게시글을 쓰고 참여 폼에 제출.",
+   "'참여 완료' 댓글을 남긴다. 인스타 스토리는 인정 제외."
+  ],
+  "url": "https://www.instagram.com/p/Df6p6QEPG23/"
+ },
+ {
+  "id": "ev-sns-ig-bonggong-survey",
+  "axis": "event",
+  "title": "봉공이 캐릭터 만족도 조사 이벤트",
+  "host": "경기도",
+  "what": "아이스박스 홀케이크 5명, 다이소 2만원권 10명, 맥도날드 1만원권 30명",
+  "minutes": 5,
+  "conditions": [
+   "팔로우 필요",
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-07",
+  "announce_at": "2026-12-11",
+  "summary": [
+   "계정 팔로우는 필수.",
+   "네이버폼의 간단한 질문에 답하면 참여 완료."
+  ],
+  "url": "https://www.instagram.com/p/Df8iCVlS5uE/"
+ },
+ {
+  "id": "ev-sns-ig-sje-survey",
+  "axis": "event",
+  "title": "2026 하반기 세종시교육청 홍보 만족도 설문조사 이벤트",
+  "host": "세종시교육청",
+  "what": "신세계 상품권 5만원권 3명, 도미노피자 10명, 컴포즈커피 100명",
+  "prize_value": 50000,
+  "minutes": 5,
+  "conditions": [
+   "설문 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-12-02",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "네이버폼 설문조사에 참여한다.",
+   "추첨으로 총 113명에게 경품."
+  ],
+  "url": "https://www.instagram.com/p/Df3KwrbJYLd/"
+ },
+ {
+  "id": "ev-sns-ig-mimac-daesungpass",
+  "axis": "event",
+  "title": "2028 대성패스 OPEN EVENT",
+  "host": "대성마이맥",
+  "what": "GS25 편의점 모바일 상품권 5천원권 100명",
+  "prize_value": 5000,
+  "minutes": 2,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-01",
+  "summary": [
+   "마이맥 인스타그램 계정을 팔로우한다.",
+   "희망하는 대학교 또는 학과를 댓글로 적는다.",
+   "친구 태그 시 당첨 확률 UP."
+  ],
+  "url": "https://www.instagram.com/p/Df6ARumD7Su/"
+ },
+ {
+  "id": "ev-sns-ig-keyang-evoplus",
+  "axis": "event",
+  "title": "계양전기 EVO+ 티저 이벤트",
+  "host": "계양전기",
+  "what": "커피 기프티콘 100명",
+  "minutes": 6,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "폼 제출 필요",
+   "인스타 로그인 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "계양전기 공식 인스타그램을 팔로우하고 EVO+ 티저 영상을 본다.",
+   "정답(○종)과 EVO+에 바라는 점 한 줄을 댓글로 남긴다.",
+   "프로필 링크트리의 네이버 폼까지 제출해야 응모 완료."
+  ],
+  "url": "https://www.instagram.com/p/DgEsuy7zGqH/"
  }
 ]
