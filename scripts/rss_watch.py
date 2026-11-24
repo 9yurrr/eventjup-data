@@ -26,9 +26,15 @@ YT = 'http://www.youtube.com/xml/schemas/2015'
 ATOM = 'http://www.w3.org/2005/Atom'
 
 
+MAX_BYTES = 5_000_000  # 피드 하나가 비정상적으로 커도 메모리를 다 먹지 않게
+
+
 def fetch(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
-        return r.read()
+        raw = r.read(MAX_BYTES + 1)
+    if len(raw) > MAX_BYTES:
+        raise ValueError('피드가 5MB를 넘음')
+    return raw
 
 
 def feed_url(line):
@@ -56,7 +62,8 @@ def parse(raw):
             except (TypeError, ValueError):
                 continue
             link = re.sub(r'\?.*$', '', it.findtext('link') or '')  # 네이버 링크의 ?fromRss... 꼬리 제거
-            out.append((strip(it.findtext('title')), link, when, strip(it.findtext('description'))[:200], src))
+            if link.startswith('https://'):  # https 아닌 링크는 후보로도 올리지 않는다
+                out.append((strip(it.findtext('title')), link, when, strip(it.findtext('description'))[:200], src))
     else:
         src = strip(root.findtext(f'{{{ATOM}}}title'))
         for e in root.iter(f'{{{ATOM}}}entry'):
