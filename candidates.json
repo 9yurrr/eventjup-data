@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24 10:09",
+ "updated": "2026-11-24 10:28",
  "days": 7,
- "feeds": 55,
+ "feeds": 56,
  "candidates": [],
  "skipped": [
   "NAVER_CLIENT_ID/SECRET 없음",

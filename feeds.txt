@@ -55,3 +55,4 @@ blog:myartmuseumonegrove  # 마이아트뮤지엄 원그로브점
 blog:s1corporation  # 에스원
 blog:wowjejusi  # 제주시
 blog:happyhwangchon  # 행복황촌 마을호텔
+blog:seominkinfa  # 서민금융진흥원
