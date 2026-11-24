@@ -26,7 +26,7 @@ FEEDS, MANUAL, OUT = ROOT / 'feeds.txt', ROOT / 'manual.json', ROOT / 'candidate
 DAYS = 7
 KST = timezone(timedelta(hours=9))
 HIT = re.compile(r'이벤트|EVENT|추첨|경품|증정|퀴즈|QUIZ|설문|공모|기프티콘|상품권|당첨|챌린지|크레딧', re.I)
-SKIP = re.compile(r'당첨자 발표|당첨자 안내|당첨자 공지|결과 발표|발표 안내|수상작|마감되었|종료되었|종료 안내')
+SKIP = re.compile(r'당첨자 발표|당첨자 안내|당첨자 공지|결과 발표|발표 안내|수상작|수상자|마감되었|종료되었|종료 안내')
 NAVER_QUERIES = ['이벤트 추첨', '퀴즈 이벤트', '설문 이벤트', '댓글 이벤트', '공모전', '이웃추가 이벤트', '경품 이벤트']
 ATOM = 'http://www.w3.org/2005/Atom'
 
