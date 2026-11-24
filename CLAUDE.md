@@ -29,7 +29,7 @@
      검색(최신순): curl -s -A 'Mozilla/5.0 (iPhone)' "https://m.search.naver.com/search.naver?where=m_blog&nso=so:dd&query=<URL인코딩 검색어>" | grep -o 'https://m.blog.naver.com/[A-Za-z0-9_]*/[0-9]*' | sort -u
      본문: curl -s -A 'Mozilla/5.0 (iPhone)' "https://m.blog.naver.com/<아이디>/<글번호>" 후 태그 제거해서 읽는다.
      검색어 예: "공식 블로그 이웃추가 이벤트", "댓글 이벤트 기프티콘 추첨", "퀴즈 이벤트 정답 댓글" + 이번 달. 기관·기업 공식 블로그(아이디가 기관/브랜드) 원 게시물만 넣고, 개인 블로그의 소개 글은 후보 찾기용으로만 쓴다. manual.json의 url은 https://blog.naver.com/<아이디>/<글번호> 형식으로 적는다.
-   인스타그램은 로그인이 필요해 클라우드에서는 열지 않는다(로컬 보조 작업이 맡는다).
+   인스타그램은 열지 않는다. 로컬 보조 작업(화·금 인스타 보태기)은 2026-11-24에 껐다 — 크롬에 로그인된 IF 대한민국 본 계정(ifkr.now)으로 자동 조회하면 정지 위험이 있어서. 다시 켜려면 수집 전용 계정부터.
 4. 각 결과를 임시 JSON 파일로 저장하고 `python scripts/merge_found.py <파일들>` 로 합친다(필수 칸·https·마감·정책 금지어·중복 검사). 넣기 전에 직접 훑어서 정답이 적힌 요약, 총상금을 prize_value에 넣은 것 등은 고친다.
 5. `python -c "import json;json.load(open('manual.json',encoding='utf-8'))"` 로 JSON이 깨지지 않았는지 확인한다.
 6. manual.json만 커밋해서 main에 push한다(push 전 `git pull --rebase`). 커밋 메시지: `data: YYYY-MM-DD 주간 갱신 (+추가 -삭제)`. 다른 파일은 고치지 않는다(feeds.txt에 계정을 직접 추가한 경우만 함께 커밋).
