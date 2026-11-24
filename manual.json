@@ -28,7 +28,8 @@
   "conditions": [
    "AI 허용",
    "비대면",
-   "참가비 없음"
+   "참가비 없음",
+   "현장 참석 필요"
   ],
   "end_at": "2026-12-13",
   "announce_at": "2026-12-27",
@@ -70,7 +71,8 @@
   "minutes": 180,
   "conditions": [
    "AI 필수",
-   "만 14세 이상"
+   "만 14세 이상",
+   "참가비 있음"
   ],
   "end_at": "2026-11-30",
   "announce_at": "2026-12-16",
@@ -1688,7 +1690,8 @@
   "prize_value": 3000000,
   "minutes": 240,
   "conditions": [
-   "누구나(개인 또는 4인 팀, 2건까지)"
+   "누구나(개인 또는 4인 팀, 2건까지)",
+   "현장 참석 필요"
   ],
   "end_at": "2026-12-04",
   "summary": [
@@ -5799,5 +5802,247 @@
    "국적 제한 없음, 1~5명 팀"
   ],
   "url": "https://developerweek-2027-hackathon.devpost.com/"
+ },
+ {
+  "id": "ct-video-seomin-shortform",
+  "axis": "contest",
+  "title": "제4회 서민금융진흥원 숏폼 영상제",
+  "host": "서민금융진흥원",
+  "what": "1등 50만원(1명), 2등 20만원(2명), 3등 10만원(3명)",
+  "prize_value": 500000,
+  "minutes": 180,
+  "conditions": [
+   "영상 제작",
+   "SNS 게시 필요",
+   "AI 허용"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-15",
+  "summary": [
+   "전국 서민금융통합지원센터를 알리는 30초~1분 세로 영상을 받는다.",
+   "대한민국 국민이면 누구나 낼 수 있고 AI·애니메이션 등 형식은 자유다.",
+   "본인 SNS에 올린 뒤 구글 폼으로 신청하며, 조회수도 심사에 10% 반영된다."
+  ],
+  "url": "https://blog.naver.com/seominkinfa/224469939704"
+ },
+ {
+  "id": "ct-video-pipc-privacy",
+  "axis": "contest",
+  "title": "2026년 개인정보 보호 숏폼 콘텐츠 공모전",
+  "host": "개인정보보호위원회",
+  "what": "최우수 약 100만원 상당 상품(1명), 우수 약 50만원 상당(2명), 장려 약 30만원 상당(5명)",
+  "prize_value": 1000000,
+  "minutes": 180,
+  "conditions": [
+   "영상 제작",
+   "AI 허용"
+  ],
+  "end_at": "2026-11-30",
+  "summary": [
+   "일상 속 개인정보 보호 실천법, 보이스피싱 2차 피해 예방 등 세 주제 중 하나로 60초 이내 영상을 만든다.",
+   "국민 누구나 개인·팀으로 참여할 수 있고 AI 활용도 된다.",
+   "작품은 이메일로 내며 수상작은 12월 중순 발표 예정이다."
+  ],
+  "url": "https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS061&mCode=C010010000&nttId=12625"
+ },
+ {
+  "id": "ct-video-miraen-youth-shortform",
+  "axis": "contest",
+  "title": "제5회 청소년창작영상제 숏폼 공모전",
+  "host": "미래엔·교사크리에이터협회",
+  "what": "16팀 총상금 880만원 + 팀별 제작 패키지",
+  "minutes": 180,
+  "conditions": [
+   "영상 제작",
+   "학생 한정"
+  ],
+  "end_at": "2026-12-07",
+  "summary": [
+   "'만약에 ○○한다면?' 상상 질문을 60초 숏폼 영상으로 표현한다.",
+   "국내외 초·중·고생과 같은 나이대 학교 밖 청소년이 개인·동아리·학급 단위로 낼 수 있다.",
+   "홈페이지에 걸린 구글 폼으로 접수하며 마감일 23:59까지 제출분만 받는다."
+  ],
+  "url": "https://청소년창작영상제.com"
+ },
+ {
+  "id": "ct-video-fira-fishing-gear",
+  "axis": "contest",
+  "title": "「어구는 돌아오는거야!」 영상·사진 공모전 (영상 부문)",
+  "host": "한국수산자원공단",
+  "what": "영상 최고상 300만원 온누리상품권(2편)",
+  "prize_value": 3000000,
+  "minutes": 240,
+  "conditions": [
+   "영상 제작",
+   "AI 불가"
+  ],
+  "end_at": "2026-12-31",
+  "summary": [
+   "어구·부표 보증금제와 폐어구 문제를 다룬 1분 내외 영상을 받으며, 영상 부문 마감이 12월 31일 16시로 늘었다.",
+   "국민 누구나 개인 또는 4인 이하 팀으로 낼 수 있고, 생성형 AI로 만든 영상은 낼 수 없다.",
+   "공모전 누리집에서 온라인으로 접수하고 결과는 2027년 1월 말 발표된다."
+  ],
+  "url": "https://renet-contest.com/summary"
+ },
+ {
+  "id": "ct-video-chroma-s2",
+  "axis": "contest",
+  "title": "크로마 어워즈 시즌2 AI 영상 공모 (Chroma Awards Season 2)",
+  "host": "Chroma Awards",
+  "what": "영화·광고·뮤직비디오 등 부문별 1~3위 현금상과 시상식 여행 패키지",
+  "minutes": 600,
+  "conditions": [
+   "영상 제작",
+   "AI 허용",
+   "해외 참가 가능",
+   "영어",
+   "만 18세 이상"
+  ],
+  "end_at": "2027-01-07",
+  "summary": [
+   "어떤 AI 도구를 써도 되는 영상 작품을 부문별로 받으며 참가비는 없다.",
+   "만 18세 이상이면 참가할 수 있고 러시아·제재 지역 거주자와 공무원은 제외된다."
+  ],
+  "url": "https://chromaawards.com/faq"
+ },
+ {
+  "id": "ct-video-higgsfield-talent",
+  "axis": "contest",
+  "title": "힉스필드 탤런트 콘테스트 AI 영화 공모 (Higgsfield Talent Contest)",
+  "host": "Higgsfield",
+  "what": "1등 현금 20만 달러 (총상금 100만 달러, 20명)",
+  "prize_value": 280000000,
+  "minutes": 900,
+  "conditions": [
+   "영상 제작",
+   "AI 영상",
+   "유튜브 업로드 필요",
+   "해외 참가 가능",
+   "영어",
+   "만 18세 이상",
+   "회원가입 필요",
+   "참가비 있음"
+  ],
+  "end_at": "2026-11-26",
+  "announce_at": "2026-12-03",
+  "summary": [
+   "3~7분 AI 영화를 Higgsfield 콘테스트 프로젝트 안에서 만들어 내야 하며, 참가비나 구매는 필요 없다.",
+   "제재 대상 지역을 뺀 전 세계 만 18세 이상이 개인·팀으로 참가할 수 있다.",
+   "마감은 11월 26일 19:00 UTC(한국 27일 새벽 4시)이고 워터마크가 남은 유튜브 공개 링크를 함께 내야 한다."
+  ],
+  "url": "https://higgsfield.ai/contests/talent-contest?tab=rules"
+ },
+ {
+  "id": "ct-credit-pixai-zundamon",
+  "axis": "contest",
+  "title": "PixAI × 즌다몬 생일 공식 콘테스트 (Happy Birthday, Zundamon!)",
+  "host": "PixAI",
+  "what": "1위 PixAI 크레딧 570만 개(5명), 2위 200만 개(10명), 3위 5만 개(30명) — 총 5,000만 크레딧",
+  "minutes": 30,
+  "conditions": [
+   "크레딧 지급",
+   "회원가입 필요",
+   "AI 허용",
+   "영어",
+   "해외 참가 가능",
+   "태그 필요"
+  ],
+  "end_at": "2026-12-11",
+  "summary": [
+   "11월 21일부터 PixAI에서 만든 즌다몬 그림을 지정 태그를 달아 콘테스트에 낸다.",
+   "가장 좋아요를 많이 받은 작품 하나로 순위를 매기며 여러 장 응모할 수 있다.",
+   "PixAI 공식 주최 콘테스트로 45명에게 크레딧을 나눠 준다."
+  ],
+  "url": "https://pixai.art/contest/pixai-zundamon-collab"
+ },
+ {
+  "id": "ct-credit-pixai-cinematic",
+  "axis": "contest",
+  "title": "PixAI 나만의 영화 장면 만들기 콘테스트 (Create Your Own Movie Scene!)",
+  "host": "PixAI 커뮤니티 콘테스트",
+  "what": "1위 PixAI 크레딧 25만 개, 2위 15만 개, 3위 3만 개(20명) — 총 100만 크레딧",
+  "minutes": 30,
+  "conditions": [
+   "크레딧 지급",
+   "회원가입 필요",
+   "AI 허용",
+   "영어",
+   "해외 참가 가능",
+   "태그 필요"
+  ],
+  "end_at": "2026-12-04",
+  "summary": [
+   "PixAI에서 영화 한 장면 같은 그림을 만들어 #CINEMATIC MOMENTS 태그로 응모한다.",
+   "좋아요가 가장 많은 작품 기준으로 22명에게 크레딧을 준다.",
+   "모델·LoRA 제한이 없고 기존 캐릭터도 쓸 수 있다."
+  ],
+  "url": "https://pixai.art/contest/user-cinematic-moments"
+ },
+ {
+  "id": "ct-credit-global-ai-builders",
+  "axis": "contest",
+  "title": "글로벌 AI 빌더 챌린지 (Global AI Builder's Challenge)",
+  "host": "Refactor The World (Devpost)",
+  "what": "1~3등 팀원당 Adaption 크레딧 1,000달러(만 18세 이상) 등, 참가자 Adaption 크레딧 500달러·Momen 크레딧 100달러",
+  "minutes": 600,
+  "conditions": [
+   "크레딧 지급",
+   "회원가입 필요",
+   "AI 허용",
+   "영어",
+   "해외 참가 가능"
+  ],
+  "end_at": "2026-11-28",
+  "announce_at": "2026-12-05",
+  "summary": [
+   "사람에게 실제로 쓸모 있는 AI 프로젝트를 만들어 데모 영상·GitHub와 함께 낸다.",
+   "100점 공개 기준표로 순위를 정하며 상은 모두 크레딧·구독권 같은 비현금 상품이다.",
+   "만 13세 이상 학생만, 표준 제외국을 뺀 전 세계에서 개인 또는 6인 이하 팀으로 참가."
+  ],
+  "url": "https://global-ai-builders-challenge.devpost.com/"
+ },
+ {
+  "id": "ct-credit-innovart-2027",
+  "axis": "contest",
+  "title": "이노바트 2027 예술·기술 해커톤 (InnovArt 2027)",
+  "host": "Binnovative (Devpost)",
+  "what": "Adaption AI 활용상 팀원당 Adaption 크레딧 1,000달러, 대상 등 수상작 책 챕터 집필 초청",
+  "minutes": 600,
+  "conditions": [
+   "크레딧 지급",
+   "회원가입 필요",
+   "AI 허용",
+   "영어",
+   "해외 참가 가능"
+  ],
+  "end_at": "2027-01-02",
+  "summary": [
+   "음악·미술·공연·디자인·건축 등 예술 분야 기술 프로젝트를 온라인으로 제출한다.",
+   "학생 대상 국제 해커톤으로 만 13세 이상, 표준 제외국을 뺀 전 세계 참가 가능.",
+   "크레딧 상은 Adaption AI를 가장 잘 활용한 1팀에게 준다."
+  ],
+  "url": "https://innovart2027.devpost.com/"
+ },
+ {
+  "id": "ct-credit-teens-in-ai-2027",
+  "axis": "contest",
+  "title": "틴즈 인 AI 글로벌 챌린지 2027 (Teens in AI Global Challenge 2027)",
+  "host": "Teens in AI (Devpost)",
+  "what": "1~3등 팀원당 Formaloo 크레딧 500달러 + 플랫폼 크레딧 1,000달러, 특별상 Adaption 크레딧 1,000달러",
+  "minutes": 600,
+  "conditions": [
+   "크레딧 지급",
+   "회원가입 필요",
+   "AI 허용",
+   "영어",
+   "해외 참가 가능"
+  ],
+  "end_at": "2027-02-15",
+  "summary": [
+   "AI를 핵심 기능으로 쓴 프로토타입을 GitHub·데모·발표 영상과 함께 낸다.",
+   "만 13~17세 학생만 참가할 수 있고 표준 제외국을 뺀 전 세계가 대상이다.",
+   "AI 활용·사회적 영향·구현·사용성·창의성 기준으로 심사한다."
+  ],
+  "url": "https://teens-in-ai.devpost.com/"
  }
 ]
