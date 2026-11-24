@@ -11,6 +11,8 @@ TODAY = datetime.date.today().isoformat()
 # 앱인토스 출시 불가: 가상자산·금융상품·도박·앱 설치 유도
 BANNED = re.compile(r'(코인|가상자산|NFT|에어드롭|airdrop|crypto|토큰|대출|카드\s?발급|계좌\s?개설|보험\s?가입|카지노|도박|베팅|앱\s?설치|설치\s?필수)', re.I)
 
+ANSWERISH = re.compile(r'정답\s*근거|정답\s*[은는:=]|답\s*[:=]|정답\s*\d|댓글\s*문구\s*[:=]')
+
 rows = json.load(open(MANUAL, encoding='utf-8'))
 ids = {r['id'] for r in rows}
 urls = {r['url'] for r in rows}
@@ -37,6 +39,8 @@ for path in sys.argv[1:]:
             continue
         if isinstance(o.get('summary'), str):
             o['summary'] = [x.strip() for x in re.split(r'(?<=[.다])\s+', o['summary']) if x.strip()][:3]
+        # 요약 문장에 섞인 정답·정답 근거도 버린다(2026-11-24 공공 퀴즈 3건에서 발견)
+        o['summary'] = [x for x in (o.get('summary') or []) if not ANSWERISH.search(x)]
         o.setdefault('conditions', [])
         o.setdefault('minutes', 5)
         o.setdefault('what', '')
