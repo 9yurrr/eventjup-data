@@ -6065,5 +6065,597 @@
    "당첨 소식은 댓글에 답글로 알려 준다."
   ],
   "url": "https://www.youtube.com/watch?v=gPq1K4Tu-9k"
+ },
+ {
+  "id": "ev-sgis-quiz-2026-3",
+  "axis": "event",
+  "title": "2026년 SGIS 퀴즈 이벤트(3차)",
+  "host": "국가데이터처 통계지리정보서비스(SGIS)",
+  "what": "만점자 중 추첨 120명에게 1만원 상당 모바일상품권",
+  "prize_value": 10000,
+  "minutes": 10,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-25",
+  "summary": [
+   "SGIS 누리집 이벤트 페이지에서 7문항 퀴즈를 풀고 이름과 휴대폰 번호를 남기면 응모된다.",
+   "모든 문제를 맞힌 사람 가운데 120명을 무작위로 뽑는다.",
+   "참여 기간은 11월 11일부터 25일까지 15일간이다."
+  ],
+  "url": "https://sgis.mods.go.kr/jsp/event/2026Q3/quiz.jsp"
+ },
+ {
+  "id": "ev-korail-data-survey",
+  "axis": "event",
+  "title": "한국철도공사 대국민 공공데이터 수요조사",
+  "host": "한국철도공사",
+  "what": "응답자 중 추첨 100명에게 모바일 커피 쿠폰",
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-27",
+  "summary": [
+   "코레일이 개방할 공공데이터 수요를 묻는 온라인 설문이다.",
+   "국민 누구나 네이버폼 링크로 응답할 수 있다.",
+   "참여자 가운데 100명을 추첨해 커피 쿠폰을 보낸다."
+  ],
+  "url": "https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000005154"
+ },
+ {
+  "id": "ev-kcisa-culture-data-survey",
+  "axis": "event",
+  "title": "문화체육관광 분야 데이터 수요조사",
+  "host": "한국문화정보원",
+  "what": "추첨 50명에게 문화상품권 1만원",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-01",
+  "summary": [
+   "문체부 산하기관 데이터를 합성데이터로 개방하기 위해 필요한 분야를 묻는 설문이다.",
+   "문화 분야 데이터에 관심 있는 사람이면 누구나 링크로 참여한다.",
+   "응답자 중 50명을 뽑아 1만원 문화상품권을 준다."
+  ],
+  "url": "https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000005155"
+ },
+ {
+  "id": "ev-kalis-data-survey-h2",
+  "axis": "event",
+  "title": "국토안전관리원 2026 하반기 공공데이터 대국민 설문조사",
+  "host": "국토안전관리원",
+  "what": "응답자 중 추첨 160명에게 모바일 커피 쿠폰",
+  "minutes": 5,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-30",
+  "summary": [
+   "공공데이터 활용 경험과 만족도, 앞으로 필요한 데이터를 묻는 설문이다.",
+   "공공데이터에 관심 있는 국민 누구나 참여할 수 있다.",
+   "참여자 160명을 추첨해 커피 쿠폰을 보낸다."
+  ],
+  "url": "https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000005138"
+ },
+ {
+  "id": "ev-kto-1330-localfood",
+  "axis": "event",
+  "title": "K-로컬 맛집 여행, 1330에 문의해 보세요!",
+  "host": "한국관광공사",
+  "what": "1등 배달의민족 상품권 5만원(5명), 치킨 세트 기프티콘(10명), 파리바게뜨 1만원권(100명)",
+  "prize_value": 50000,
+  "minutes": 10,
+  "conditions": [
+   "로그인 X",
+   "이름·휴대폰 입력",
+   "1330 문자채팅 이용 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "관광안내 1330 문자채팅으로 지역 맛집 여행에 관해 질문한 뒤 대화 화면을 캡처한다.",
+   "캡처 이미지를 네이버폼에 올리고 연락처를 적으면 응모가 끝난다.",
+   "이벤트 기간 안의 상담 내역만 인정되며 1인 1회만 응모할 수 있다."
+  ],
+  "url": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=73c73266-fc4d-4120-92f2-ea57831f5a9a"
+ },
+ {
+  "id": "ev-kto-tourdure-survey",
+  "axis": "event",
+  "title": "관광두레 테마관 운영 만족도 조사",
+  "host": "한국관광공사",
+  "what": "추첨 200명에게 네이버페이 포인트 5천원권",
+  "prize_value": 5000,
+  "minutes": 3,
+  "conditions": [
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "대한민국 구석구석의 관광두레 테마관을 둘러본 뒤 만족도 설문에 답하는 방식이다.",
+   "설문은 3분 정도 걸린다.",
+   "응답자 가운데 200명을 무작위로 뽑는다."
+  ],
+  "url": "https://korean.visitkorea.or.kr/detail/event_detail.do?cotid=26c77a6a-113e-4407-8824-f42d03095b01"
+ },
+ {
+  "id": "ev-sns-seoul-bodeul-yt-1206",
+  "axis": "event",
+  "title": "보들이TV 유튜브 구독 이벤트(보건연구사 면접편)",
+  "host": "서울시보건환경연구원",
+  "what": "추첨 편의점 상품권 5천원권",
+  "prize_value": 5000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "보들이TV 이벤트 영상을 보고 채널 구독과 댓글을 마친다.",
+   "구독 중 화면과 내 댓글 화면 두 장을 캡처해 안내된 링크에 올리면 참여가 끝난다.",
+   "당첨자는 12월 7일에 발표한다."
+  ],
+  "url": "https://news.seoul.go.kr/welfare/archives/584875"
+ },
+ {
+  "id": "ct-hankook-sinchun-2027",
+  "axis": "contest",
+  "title": "2027 한국일보 신춘문예",
+  "host": "한국일보",
+  "what": "소설 500만원, 시·희곡 각 300만원, 동화·동시 각 200만원",
+  "prize_value": 5000000,
+  "minutes": 600,
+  "conditions": [
+   "로그인 X",
+   "우편 접수",
+   "AI 사용 불가"
+  ],
+  "end_at": "2026-12-02",
+  "announce_at": "2027-01-01",
+  "summary": [
+   "시·소설·희곡·동화·동시 5개 부문 미발표 창작물을 A4로 출력해 우편으로 보낸다.",
+   "12월 2일 소인까지 인정되며 방문 접수는 같은 날 오후 6시에 마감한다.",
+   "생성형 AI를 쓴 사실이 확인되면 당선이 취소된다."
+  ],
+  "url": "https://www.hankookilbo.com/news/article/A2026103019130005068"
+ },
+ {
+  "id": "ct-busan-sinchun-2027",
+  "axis": "contest",
+  "title": "2027 부산일보 신춘문예",
+  "host": "부산일보",
+  "what": "단편소설 700만원, 시 500만원, 시조·희곡/시나리오·아동문학·평론 각 300만원",
+  "prize_value": 7000000,
+  "minutes": 600,
+  "conditions": [
+   "로그인 X",
+   "우편 접수",
+   "AI 사용 불가"
+  ],
+  "end_at": "2026-12-03",
+  "announce_at": "2027-01-01",
+  "summary": [
+   "6개 부문 미발표 신작을 우편으로만 받는다.",
+   "12월 3일 오후 6시까지 부산일보사에 도착해야 한다.",
+   "당선자는 12월 중순 개별 통보를 받고 1월 1일자 지면에 발표된다."
+  ],
+  "url": "https://www.busan.com/view/busan/view.php?code=2026110218292075954"
+ },
+ {
+  "id": "ct-seoul-sinchun-2027",
+  "axis": "contest",
+  "title": "2027 서울신문 신춘문예",
+  "host": "서울신문",
+  "what": "단편소설 700만원, 시 500만원, 시조·희곡·문학평론·동화 각 300만원",
+  "prize_value": 7000000,
+  "minutes": 600,
+  "conditions": [
+   "로그인 X",
+   "우편 접수",
+   "AI 활용 범위 기재"
+  ],
+  "end_at": "2026-12-01",
+  "announce_at": "2027-01-01",
+  "summary": [
+   "6개 부문 미발표 원고를 A4로 출력하거나 원고지에 써서 우편으로 보낸다.",
+   "12월 1일 도착분까지 유효하고 팩스·이메일 접수는 받지 않는다.",
+   "생성형 AI를 어디에 얼마나 썼는지 별지에 적어야 하며 사실과 다르면 당선에서 빠진다."
+  ],
+  "url": "https://www.seoul.co.kr/news/life/culture-news/2026/11/02/20261102001005"
+ },
+ {
+  "id": "ct-kyeongin-sinchun-2027",
+  "axis": "contest",
+  "title": "2027 경인일보 신춘문예",
+  "host": "경인일보",
+  "what": "단편소설 500만원, 시 300만원(각 상패 포함)",
+  "prize_value": 5000000,
+  "minutes": 600,
+  "conditions": [
+   "로그인 X",
+   "우편 접수",
+   "AI 사용 불가"
+  ],
+  "end_at": "2026-12-02",
+  "announce_at": "2027-01-04",
+  "summary": [
+   "단편소설과 시 두 부문으로, 등단·수상·출판 경력이 없는 신인만 응모할 수 있다.",
+   "12월 2일 우편 도착분까지 받는다.",
+   "AI 활용이 드러나면 당선이 취소된다."
+  ],
+  "url": "https://www.kyeongin.com/article/1775200"
+ },
+ {
+  "id": "ct-segye-sinchun-2027",
+  "axis": "contest",
+  "title": "2027 세계일보 신춘문예",
+  "host": "세계일보",
+  "what": "단편소설 500만원, 시·문학평론 각 300만원",
+  "prize_value": 5000000,
+  "minutes": 600,
+  "conditions": [
+   "로그인 X",
+   "우편·택배·방문 접수",
+   "해외 참가 가능",
+   "AI 사용 불가"
+  ],
+  "end_at": "2026-12-02",
+  "summary": [
+   "단편소설·시·문학평론 세 부문이며 여러 부문에 함께 낼 수 있다.",
+   "12월 2일 오후 6시까지 도착해야 하고 소인은 인정하지 않는다.",
+   "다른 중앙일간지 같은 부문 당선자는 응모할 수 없고 해외 거주자도 참가할 수 있다."
+  ],
+  "url": "https://www.segye.com/newsView/20261025509735"
+ },
+ {
+  "id": "ev-sns-livart-yt-1204",
+  "axis": "event",
+  "title": "현대리바트 가구숨터 런칭 기념 댓글 이벤트",
+  "host": "현대리바트",
+  "what": "배달의민족 상품권 5만 원권 (10명)",
+  "prize_value": 50000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-12-04",
+  "announce_at": "2026-12-09",
+  "summary": [
+   "현대리바트 공식 유튜브 가구숨터 영상에 필요한 서비스와 그 이유를 댓글로 남기는 이벤트다.",
+   "채널 구독과 좋아요가 조건이고, 발표 때까지 구독과 댓글을 유지해야 한다.",
+   "당첨되면 대댓글 안내에 따라 기한 안에 폼을 내야 경품이 나간다."
+  ],
+  "url": "https://www.youtube.com/watch?v=jHym38uEPQw"
+ },
+ {
+  "id": "ev-sns-money10-yt-1125",
+  "axis": "event",
+  "title": "교보증권 머니텐 증시톡터뷰 응원 댓글 이벤트",
+  "host": "교보증권 머니텐",
+  "what": "교보문고 기프트카드 (5명)",
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-26",
+  "summary": [
+   "교보증권 공식 유튜브 머니텐의 김장열 센터장 편 영상에 응원 댓글을 남기면 추첨 대상이 된다.",
+   "채널 구독과 영상 좋아요를 함께 해야 한다.",
+   "당첨자는 채널 커뮤니티 글로 알린다."
+  ],
+  "url": "https://www.youtube.com/watch?v=zwDALEtOzR8"
+ },
+ {
+  "id": "ev-sns-high1-yt-1203",
+  "axis": "event",
+  "title": "하이원 숏드라마 시즌3 보고 싶은 이야기 댓글 이벤트",
+  "host": "하이원리조트(강원랜드)",
+  "what": "롯데리아 모바일 금액권 1만 원",
+  "prize_value": 10000,
+  "minutes": 5,
+  "conditions": [
+   "댓글 필요"
+  ],
+  "end_at": "2026-12-03",
+  "announce_at": "2026-12-07",
+  "summary": [
+   "하이원리조트 공식 유튜브 숏드라마 6화 영상에 시즌3에서 보고 싶은 전개 번호와 장면을 댓글로 쓰는 이벤트다.",
+   "추첨으로 경품을 준다."
+  ],
+  "url": "https://www.youtube.com/watch?v=sipTnLD1wJE"
+ },
+ {
+  "id": "ev-sns-kia-yt-1125",
+  "axis": "event",
+  "title": "기아 「내 차를 사라!」 시청 후기 댓글 이벤트",
+  "host": "기아",
+  "what": "네이버페이 5천 원 상품권 (20명)",
+  "prize_value": 5000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "댓글 필요",
+   "구글폼 인증"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "기아 공식 유튜브의 RV 오너 영업 대결 영상을 보고 후기를 댓글로 남긴 뒤 구글폼으로 참여를 인증한다.",
+   "기아 채널 구독이 필요하다.",
+   "당첨자에게는 개별 연락한다."
+  ],
+  "url": "https://www.youtube.com/watch?v=7PFRerAljrU"
+ },
+ {
+  "id": "ev-sns-sunong-yt-1126",
+  "axis": "event",
+  "title": "수농특강 한문철의 한입 지식 깜짝 퀴즈 이벤트",
+  "host": "농업교육포털(수농특강)",
+  "what": "메가커피 아이스 아메리카노 (98명)",
+  "prize_value": 2000,
+  "minutes": 5,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요",
+   "이름·휴대폰 입력"
+  ],
+  "end_at": "2026-11-26",
+  "announce_at": "2026-11-30",
+  "summary": [
+   "수농특강 공식 유튜브 본 영상에서 퀴즈 답을 찾아 댓글로 남기는 이벤트다.",
+   "구독·좋아요·댓글 인증 화면 3장을 네이버폼에 올려야 참여가 끝난다.",
+   "쇼츠에 단 댓글은 인정되지 않는다."
+  ],
+  "url": "https://www.youtube.com/watch?v=GFnWb5WF3JY"
+ },
+ {
+  "id": "ev-sns-emart24-yt-1125",
+  "axis": "event",
+  "title": "이마트24 초판제과 디저트 댓글 이벤트",
+  "host": "이마트24",
+  "what": "이마트24 모바일상품권 3천 원권 (5명)",
+  "prize_value": 3000,
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-25",
+  "announce_at": "2026-12-01",
+  "summary": [
+   "이마트24 공식 유튜브 영상에서 진행하는 댓글 추첨이다.",
+   "초판제과 시리즈 가운데 먹어 보고 싶은 디저트를 댓글로 고르면 응모된다.",
+   "이마트24 채널 구독과 해당 영상 좋아요가 함께 있어야 한다."
+  ],
+  "url": "https://www.youtube.com/watch?v=GiGi5piCha8"
+ },
+ {
+  "id": "ev-sns-emart24-yt-1126",
+  "axis": "event",
+  "title": "이마트24 풍성수 기대평 댓글 이벤트",
+  "host": "이마트24",
+  "what": "이마트24 모바일상품권 3천 원권 (5명)",
+  "prize_value": 3000,
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-26",
+  "announce_at": "2026-12-02",
+  "summary": [
+   "이마트24 공식 유튜브 영상에서 진행하는 댓글 추첨이다.",
+   "새 음료 풍성수에 대한 기대평을 댓글로 남기면 응모된다.",
+   "이마트24 채널 구독과 해당 영상 좋아요가 함께 있어야 한다."
+  ],
+  "url": "https://www.youtube.com/watch?v=nCAfHGKFOsU"
+ },
+ {
+  "id": "ev-sns-emart24-yt-1129",
+  "axis": "event",
+  "title": "이마트24 초판제과 책갈피 굿즈 댓글 이벤트",
+  "host": "이마트24",
+  "what": "이마트24 모바일상품권 3천 원권 (5명)",
+  "prize_value": 3000,
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-29",
+  "announce_at": "2026-12-03",
+  "summary": [
+   "이마트24 공식 유튜브 영상에서 진행하는 댓글 추첨이다.",
+   "명문장 책갈피 굿즈 15종 가운데 갖고 싶은 것을 댓글로 고르면 응모된다.",
+   "이마트24 채널 구독과 해당 영상 좋아요가 함께 있어야 한다."
+  ],
+  "url": "https://www.youtube.com/watch?v=b8dh5YhbFE4"
+ },
+ {
+  "id": "ev-sns-emart24-yt-1130",
+  "axis": "event",
+  "title": "이마트24 럭키 콜라보 상품 기대평 댓글 이벤트",
+  "host": "이마트24",
+  "what": "이마트24 모바일상품권 3천 원권 (5명)",
+  "prize_value": 3000,
+  "minutes": 3,
+  "conditions": [
+   "구독 필요",
+   "좋아요 필요",
+   "댓글 필요"
+  ],
+  "end_at": "2026-11-30",
+  "announce_at": "2026-12-04",
+  "summary": [
+   "이마트24 공식 유튜브 영상에서 진행하는 댓글 추첨이다.",
+   "곧 나올 럭키 콜라보 상품 중 가장 기대되는 것을 댓글로 알려 주면 응모된다.",
+   "이마트24 채널 구독과 해당 영상 좋아요가 함께 있어야 한다."
+  ],
+  "url": "https://www.youtube.com/watch?v=kElejSNPNdk"
+ },
+ {
+  "id": "ct-global-relate-neo4j",
+  "axis": "contest",
+  "title": "Neo4j 그래프 DB 렐레이트 해커톤 (Relate by Neo4j Hackathon)",
+  "host": "Neo4j",
+  "what": "1등 맥 스튜디오 M5 Max(약 3,799달러 상당), 2등 맥 미니 M6, 3등 맥 미니 M6",
+  "prize_value": 5318600,
+  "minutes": 1200,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2026-12-11",
+  "summary": [
+   "Neo4j의 가벼운 그래프 데이터베이스 Relate를 써서 AI 에이전트나 앱을 새로 만들어 내는 온라인 대회입니다.",
+   "만 18세 이상이면 미국 제재국 거주자를 빼고 어느 나라에서나 참가할 수 있습니다.",
+   "공개 GitHub 저장소에 relate 토픽을 달아 Devpost로 제출하며, 마감은 미국 태평양시간 12월 11일 오후 6시입니다."
+  ],
+  "url": "https://relate.devpost.com/"
+ },
+ {
+  "id": "ct-global-writers-of-the-future-q1",
+  "axis": "contest",
+  "title": "SF·판타지 신인 단편소설 공모 (L. Ron Hubbard's Writers of the Future)",
+  "host": "Writers of the Future",
+  "what": "분기 1등 1,000달러, 연간 대상 5,000달러 추가",
+  "prize_value": 1400000,
+  "minutes": 600,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2026-12-31",
+  "summary": [
+   "아직 전문 출간 경력이 거의 없는 신인 작가가 영어로 쓴 SF·판타지 단편을 받는 분기별 공모입니다.",
+   "1만 7천 단어 미만 작품을 참가비 없이 온라인으로 내면 되고, 저작권은 작가가 그대로 가집니다.",
+   "이번 분기(10~12월)는 미국 태평양시간 12월 31일 자정에 마감됩니다."
+  ],
+  "url": "https://writersofthefuture.com/contest-rules-writer/"
+ },
+ {
+  "id": "ct-global-wergle-flomp-2027",
+  "axis": "contest",
+  "title": "무료 유머 시 공모전 베르글 플롬프 2027 (Wergle Flomp Humor Poetry Contest)",
+  "host": "Winning Writers",
+  "what": "1등 2,000달러, 2등 750달러, 3등 350달러, 가작 200달러",
+  "prize_value": 2800000,
+  "minutes": 60,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2027-04-01",
+  "announce_at": "2027-08-15",
+  "summary": [
+   "웃긴 시 한 편(250행 이하, 영어)을 참가비 없이 내는 문학 공모입니다.",
+   "이미 발표한 시도 낼 수 있고, 이란·북한·러시아 등 일부 제재 지역만 참가가 막혀 있습니다.",
+   "결과는 2027년 8월 15일에 공개됩니다."
+  ],
+  "url": "https://winningwriters.com/our-contests/wergle-flomp-humor-poetry-contest-free"
+ },
+ {
+  "id": "ct-global-hackster-au2027-product",
+  "axis": "contest",
+  "title": "오토데스크 유니버시티 2027 기념품 기기 만들기 (Build the Autodesk University 2027 Product)",
+  "host": "Hackster.io · Autodesk · Qualcomm · PCBWay",
+  "what": "1등 1,000달러+퓨전 1년 라이선스(약 1,680달러 상당), 작품은 행사 기념품으로 약 750개 생산",
+  "prize_value": 1400000,
+  "minutes": 1800,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2026-12-20",
+  "announce_at": "2027-01-29",
+  "summary": [
+   "Autodesk Fusion과 Arduino UNO Q로 몸에 차거나 들고 다니는 스마트 액세서리를 설계해 올리는 하드웨어 대회입니다.",
+   "대한민국이 참가 가능 국가 목록에 들어 있고, 보드는 직접 준비해야 합니다(무료 보드 신청은 9월에 끝남).",
+   "마감은 미국 태평양시간 12월 20일, 수상자는 2027년 1월 29일 발표됩니다."
+  ],
+  "url": "https://www.hackster.io/contests/autodesk-university-2027-product"
+ },
+ {
+  "id": "ct-global-hackster-infineon-boss",
+  "axis": "contest",
+  "title": "인피니언 엣지 AI 보스 배틀 (Infineon Boss Battle in the AI Arena)",
+  "host": "Hackster.io · Infineon",
+  "what": "1등 1,000달러, 준우승 2명 각 500달러",
+  "prize_value": 1400000,
+  "minutes": 1800,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2027-01-03",
+  "announce_at": "2027-01-29",
+  "summary": [
+   "인피니언 PSOC Edge 마이크로컨트롤러와 DEEPCRAFT AI 도구로 사이버펑크 미래 도시 주제의 AI 기기를 만드는 개인전입니다.",
+   "만 18세 이상이면 참가할 수 있고, 대한민국이 참가 가능 국가 목록에 있습니다. 보드는 직접 준비해야 합니다.",
+   "제작 과정·코드·회로도를 영어로 정리해 미국 태평양시간 2027년 1월 3일까지 올립니다."
+  ],
+  "url": "https://www.hackster.io/contests/infineon-boss-battle"
+ },
+ {
+  "id": "ct-global-hackster-sustain-system",
+  "axis": "contest",
+  "title": "노르딕 고장 예측 기기 만들기 (Sustain the System)",
+  "host": "Hackster.io · Nordic Semiconductor",
+  "what": "1등 3,000달러 상당, 엣지 AI 부문 1,000달러 등 총 8,000달러",
+  "prize_value": 4200000,
+  "minutes": 2400,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2027-04-25",
+  "announce_at": "2027-05-21",
+  "summary": [
+   "노르딕 nRF54LM20 개발 보드와 블루투스로 장비·시설이 고장 나기 전에 미리 알려 주는 예측 정비 기기를 만드는 대회입니다.",
+   "벨라루스·쿠바·이란·북한·러시아 등 일부 국가를 빼면 만 18세 이상 누구나 팀으로도 참가할 수 있습니다.",
+   "마감은 미국 태평양시간 2027년 4월 25일이며, 보드는 직접 준비해야 합니다."
+  ],
+  "url": "https://www.hackster.io/contests/sustain-the-system"
+ },
+ {
+  "id": "ct-global-hackster-emotion-motion",
+  "axis": "contest",
+  "title": "감정을 가진 기계 만들기 (Emotion in Motion)",
+  "host": "Hackster.io · Renesas · Arduino",
+  "what": "1등 5,000달러 상당, 2등 2,500달러, 3등 1,500달러, 학생 부문 1,000달러",
+  "prize_value": 7000000,
+  "minutes": 2400,
+  "conditions": [
+   "해외 참가 가능",
+   "영어"
+  ],
+  "end_at": "2027-06-27",
+  "announce_at": "2027-07-30",
+  "summary": [
+   "Arduino UNO R4 WiFi로 감정 표현·음성·모터 제어를 넣어 사람 같은 느낌의 로봇이나 전자 기기를 만드는 대회입니다.",
+   "일부 제재국을 빼고 만 18세 이상이면 팀으로도 참가할 수 있으며, 무료 보드 신청은 2027년 1월 10일까지 받습니다.",
+   "작품 제출 마감은 미국 태평양시간 2027년 6월 27일입니다."
+  ],
+  "url": "https://www.hackster.io/contests/emotion-in-motion"
  }
 ]

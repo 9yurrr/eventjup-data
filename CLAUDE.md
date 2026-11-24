@@ -34,7 +34,7 @@
    - 보건복지부 홍보 갤러리 https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015 , 한국소비자원 kca.go.kr, 서울시 내 손안에 서울 news.seoul.go.kr·mediahub.seoul.go.kr/missions
    - Devpost(devpost.com 공개 API), DrivenData, Kaggle — 해외(c)
    네이버 블로그: 네이버 검색 결과 화면(m.search.naver.com)을 긁지 않는다(약관상 자동 수집 금지). 후보는 candidates.json(검색 API) 또는 WebSearch로 찾는다.
-     본문 확인은 글 하나씩만: curl -s -A 'eventjup-bot/1.0' "https://blog.naver.com/<아이디>/<글번호>" (robots.txt가 일반 봇에 개별 글을 허용). 기관·기업 공식 블로그 원 게시물만 넣고 개인 블로그 글은 쓰지 않는다. manual.json의 url은 https://blog.naver.com/<아이디>/<글번호> 형식.
+     **네이버 블로그 본문은 AI가 열지 않는다** — blog.naver.com robots.txt가 「AI 학습·검색(RAG) 목적 봇 접근 금지」를 명시하고 ClaudeBot을 막는다(2026-11-24 확인). 같은 이벤트를 주최 측 공식 홈페이지·유튜브·보도자료에서 확인할 수 있을 때만 넣는다. 이미 들어 있는 blog.naver.com 링크는 사용자가 누르는 링크라 그대로 둬도 된다.
    인스타그램은 열지 않는다. 로컬 보조 작업(화·금 인스타 보태기)은 2026-11-24에 껐다 — 크롬에 로그인된 IF 대한민국 본 계정(ifkr.now)으로 자동 조회하면 정지 위험이 있어서. 다시 켜려면 수집 전용 계정부터.
 4. 각 결과를 임시 JSON 파일로 저장하고 `python scripts/merge_found.py <파일들>` 로 합친다(필수 칸·https·모음 사이트 주소·마감·정책 금지어·중복·원문 복사 검사·조건 태그). 넣기 전에 직접 훑어서 정답이 적힌 요약, 총상금을 prize_value에 넣은 것 등은 고친다.
 5. `python -c "import json;json.load(open('manual.json',encoding='utf-8'))"` 로 JSON이 깨지지 않았는지 확인한다.
