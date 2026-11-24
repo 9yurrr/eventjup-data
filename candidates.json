@@ -1,11 +1,60 @@
 {
- "updated": "2026-11-24 10:28",
+ "updated": "2026-11-24 10:33",
  "days": 7,
  "feeds": 56,
- "candidates": [],
+ "candidates": [
+  {
+   "title": "🦷‘Guess my job❗’ 직업을 맞혀보세요! #quiz #kidsenglish #shorts #어린이 #어린이퀴즈 #befm",
+   "url": "https://www.youtube.com/watch?v=zWpBHvWJ5r0",
+   "posted": "2026-11-22 15:00",
+   "source": "BeFM Kids",
+   "feed": "yt:UCy7NG-ZYbJ35ohbPDU1VHzg"
+  },
+  {
+   "title": "💚댓글이벤트💚 올랭말랭? 시즌 2 EP.9ㅣ펜싱 정점 강림 [펜싱모임] #김규원 #딘딘 #오상욱",
+   "url": "https://www.youtube.com/watch?v=lu-COpxYySg",
+   "posted": "2026-11-20 17:00",
+   "source": "NH농협은행",
+   "feed": "yt:UCmkkFJIalgnWovxFigYK2EA"
+  },
+  {
+   "title": "[✅설문이벤트][🎁댓글이벤트] 신규 입점 파트너 필독! 상위 20% 가게는 어떤 마케팅 가장 잘 쓸까요? | 배민쪽집게 Ep.2",
+   "url": "https://www.youtube.com/watch?v=gPq1K4Tu-9k",
+   "posted": "2026-11-20 10:00",
+   "source": "배민외식업광장",
+   "feed": "yt:UCixQ1UCmPoS2IEyJ4GeHjRA"
+  },
+  {
+   "title": "🧡구로 평생학습 한마당으로 곧 감🍊 #곶감챌린지",
+   "url": "https://www.youtube.com/watch?v=9MogY5jWhKs",
+   "posted": "2026-11-20 09:09",
+   "source": "구로구청 · 구로ON",
+   "feed": "yt:UCaZBVuz9Gp1l8tg-VTwRiKg"
+  },
+  {
+   "title": "정동야행에서 만난 최연소 퀴즈왕?! 👑",
+   "url": "https://www.youtube.com/watch?v=fVTSDmeCqQg",
+   "posted": "2026-11-19 16:59",
+   "source": "서울중구청",
+   "feed": "yt:UCaIFOTudWtPSbCzhpfZQHwA"
+  },
+  {
+   "title": "유니클로 롯데백화점 강남점 & 유니클로 스타필드 마켓 월계점 오픈 기념 증정품!",
+   "url": "https://www.youtube.com/watch?v=z82TxOpYbiI",
+   "posted": "2026-11-18 16:36",
+   "source": "유니클로 UNIQLO",
+   "feed": "yt:UCKnFIIjrAjZVBEMtwztW5hA"
+  },
+  {
+   "title": "🏆 「110을 알려줘!」 SNS 숏폼 콘텐츠 공모전 수상자 발표",
+   "url": "https://www.youtube.com/watch?v=-WZIIvpKPW0",
+   "posted": "2026-11-17 17:31",
+   "source": "국민권익위원회  권익비전",
+   "feed": "yt:UCUAYkowhhWi7W5EPHpSO_gg"
+  }
+ ],
  "skipped": [
-  "NAVER_CLIENT_ID/SECRET 없음",
-  "YOUTUBE_API_KEY 없음"
+  "NAVER_CLIENT_ID/SECRET 없음"
  ],
  "errors": []
 }
