@@ -18,6 +18,7 @@ added, rejected = [], []
 
 for path in sys.argv[1:]:
     for o in json.load(open(path, encoding='utf-8')):
+        o.pop('answer', None); o.pop('comments', None)  # 정답·댓글 문구는 싣지 않는다(부정 응모 조장 방지)
         why = None
         if not all(o.get(k) for k in ('id', 'axis', 'title', 'host', 'url', 'end_at')):
             why = '필수 칸 없음'
