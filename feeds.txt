@@ -1,0 +1,57 @@
+# 이벤트줍 RSS 감시 대상. blog:<네이버 아이디> | yt:<유튜브 채널 ID> | RSS 주소. # 뒤는 메모.
+# python scripts/rss_watch.py --seed 가 manual.json에서 새 계정을 찾아 아래에 덧붙인다.
+yt:UCixQ1UCmPoS2IEyJ4GeHjRA  # 배민외식업광장(배달의민족)
+yt:UCcnwzfYntKAvBHqHWJ-T7Fg  # 한국해양진흥공사
+yt:UCRsetXyMdNsR4M9KvA-a_fg  # 보건복지부
+yt:UCMmAaWk0IsJTW1-jW8aA4iw  # 서울시 상가건물임대차 분쟁조정위원회
+yt:UCBdKH3MG6X71y94A2WUdETQ  # 부산광역시 연제구청
+blog:pt_story  # 평택시
+blog:mpeonkorea  # 엠피온
+blog:cbe_news  # 충청북도교육청
+blog:sjcu7  # 세종사이버대학교
+yt:UCmkkFJIalgnWovxFigYK2EA  # NH농협은행
+yt:UCS8gDzKEBFOaBpVCpbxOcpQ  # NH농협생명
+yt:UCcfq4k8VqaP25RkVVoAo4FQ  # 거창군
+yt:UCaIFOTudWtPSbCzhpfZQHwA  # 서울 중구청
+yt:UCbVBGAC5fiVonROzclwNHgQ  # 이스즈 코리아
+yt:UC-8ThxuEDCfT9Mw-PFiXPYA  # 월드비전
+yt:UCxhDNs6XZB-Afu4BSdBGKJw  # DB손해보험
+yt:UCCqsGUOsc1VUANzqYFkTmZA  # 세종사이버대학교
+yt:UC7eAE87To0ejUQwD8g7vEGw  # 인천 남동구청
+yt:UCy7NG-ZYbJ35ohbPDU1VHzg  # 부산영어방송 BeFM Kids
+yt:UCkd5tMm_IOhDbyVV1TEtVgQ  # 캐논코리아
+yt:UCzRW5RWMLdRQjwTuZLl5yfg  # 캐논코리아 (캐논TV)
+yt:UC51_BcNUXVpr-nv89Ukw7Xw  # 매거진Q TV (퀸잇)
+yt:UCYp5nsUn0roI2oir1ghDigQ  # 서울 성동구청
+yt:UCUAYkowhhWi7W5EPHpSO_gg  # 국민권익위원회
+yt:UCaZBVuz9Gp1l8tg-VTwRiKg  # 서울 구로구청
+yt:UCKnFIIjrAjZVBEMtwztW5hA  # 유니클로 코리아
+yt:UCwzJw3PLEcSAPrO4g86iswg  # 김창옥TV · 자생한방병원
+yt:UC-c7jMil2R39XpbMNoW1JWg  # 인천여성가족재단
+yt:UCkKP0fWXIvAJN0Tgj2Ky3iA  # 한국어촌어항공단
+yt:UCnML5Q7sCS71mOBjz3yoCtg  # 한국자산관리공사(캠코)
+blog:digital_zone  # 디지털존 (다우데이타)
+blog:jgfez2021  # 전남광주경제자유구역청
+blog:cancer_info  # 국가암지식정보센터 (국립암센터)
+blog:cheongyange  # 청양군청
+blog:o2gunpo  # 군포시청
+blog:eumseonggun  # 충북 음성군
+blog:cre_ar  # 알리아스(경남 3D 웹툰 배경 제작·배포 사업)
+blog:gjbukgu  # 전남광주 북구청
+blog:bgv_blog  # 부산글로벌빌리지
+blog:checkoff7202  # 우유자조금관리위원회
+blog:dgoperahouse  # 대구오페라하우스
+blog:djjunggu8  # 대전광역시 중구청
+blog:dongjaksaran  # 동작구청
+blog:ekapepia  # 축산물품질평가원
+blog:hanamartcent  # 하남문화재단
+blog:hellopolicy  # 대한민국 정부 공식블로그
+blog:kfdazzang  # 식품의약품안전처
+blog:kihfkorea  # 한국건강가정진흥원
+blog:kogl1  # 공공누리(한국저작권위원회)
+blog:kwwapr  # 한국상하수도협회
+blog:mofe_korea  # 재정경제부
+blog:myartmuseumonegrove  # 마이아트뮤지엄 원그로브점
+blog:s1corporation  # 에스원
+blog:wowjejusi  # 제주시
+blog:happyhwangchon  # 행복황촌 마을호텔

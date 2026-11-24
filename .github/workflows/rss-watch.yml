@@ -1,0 +1,24 @@
+# 매일 아침 공식 계정 RSS를 훑어 candidates.json을 갱신한다(후보일 뿐, manual.json은 건드리지 않음).
+name: rss-watch
+on:
+  schedule:
+    - cron: '0 22 * * *'  # 매일 07:00 KST
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/rss_watch.py --seed
+      - run: python scripts/rss_watch.py
+      - name: commit
+        run: |
+          git config user.name "rss-watch"
+          git config user.email "rss-watch@users.noreply.github.com"
+          git add feeds.txt candidates.json
+          git diff --cached --quiet || (git commit -m "rss: $(TZ=Asia/Seoul date +%F) 후보 갱신" && git push)
