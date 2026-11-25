@@ -56,3 +56,9 @@ blog:s1corporation  # 에스원
 blog:wowjejusi  # 제주시
 blog:happyhwangchon  # 행복황촌 마을호텔
 blog:seominkinfa  # 서민금융진흥원
+yt:UCgviRV4CtS3aHZjeDMfrEmg  # 현대리바트
+yt:UCcviJwrVaorhIFL4csgAz1w  # 교보증권 머니텐
+yt:UCCmnDyU8mpRFaAjjW7YDXHw  # 하이원리조트(강원랜드)
+yt:UC6Im3VweLhYbiT2qYTIP6nw  # 기아
+yt:UCLeAgEFNCagT_J2-n0VXnOw  # 농업교육포털(수농특강)
+yt:UCSQ0lVqv57JVw1lOdJ2vTVA  # 이마트24
