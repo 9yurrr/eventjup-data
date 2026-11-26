@@ -5827,5 +5827,68 @@
    "작품 제출 마감은 미국 태평양시간 2027년 6월 27일입니다."
   ],
   "url": "https://www.hackster.io/contests/emotion-in-motion"
+ },
+ {
+  "id": "ev-redcross-sns-survey-1206",
+  "axis": "event",
+  "title": "대한적십자사 SNS 만족도 조사 이벤트",
+  "host": "대한적십자사",
+  "what": "추첨 50명 메가커피 아이스 아메리카노 기프티콘",
+  "minutes": 3,
+  "conditions": [
+   "팔로우 필요",
+   "댓글 필요",
+   "설문 응답"
+  ],
+  "end_at": "2026-12-06",
+  "announce_at": "2026-12-14",
+  "summary": [
+   "인스타그램 계정을 팔로우하고 프로필 링크의 SNS 만족도 설문에 응답한다.",
+   "이벤트 게시물에 참여 완료 댓글을 남기면 응모된다.",
+   "당첨자는 12월 14일 게시물 댓글로 발표한다."
+  ],
+  "url": "https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015&act=view&list_no=380669"
+ },
+ {
+  "id": "ev-koddi-challenge-mv-1211",
+  "axis": "event",
+  "title": "한국장애인개발원 공식 챌린지 뮤직비디오 리포스트 이벤트",
+  "host": "한국장애인개발원",
+  "what": "추첨 100명 메가MGC커피 아이스 아메리카노",
+  "minutes": 5,
+  "conditions": [
+   "만 14세 이상",
+   "공유 필요",
+   "공개 계정 필요",
+   "개인정보 입력"
+  ],
+  "end_at": "2026-12-11",
+  "announce_at": "2026-12-16",
+  "summary": [
+   "공식 챌린지 뮤직비디오 릴스를 본인 SNS 공개 계정에 리포스트한다.",
+   "인증 사진과 참여 정보를 온라인 설문 폼에 제출하면 추첨 대상이 된다."
+  ],
+  "url": "https://www.mohw.go.kr/gallery.es?mid=a10314000000&bid=0015&act=view&list_no=380668"
+ },
+ {
+  "id": "ev-kdca-health-talk-1209",
+  "axis": "event",
+  "title": "국가건강정보포털 건강 궁금증 톡(Talk) 의견 이벤트",
+  "host": "질병관리청 국가건강정보포털",
+  "what": "추첨 50명 모바일 커피쿠폰 2만원권",
+  "prize_value": 20000,
+  "minutes": 5,
+  "conditions": [
+   "설문 응답",
+   "개인정보 입력"
+  ],
+  "end_at": "2026-12-09",
+  "announce_at": "2026-12-16",
+  "summary": [
+   "평소 궁금한 건강 정보와 알고 싶은 내용을 온라인 폼에 적어 제출한다.",
+   "내용을 구체적으로 쓸수록 당첨 확률이 높아진다고 안내한다.",
+   "당첨자는 개별 안내와 질병관리청 블로그 공지로 알린다."
+  ],
+  "url": "https://health.kdca.go.kr/healthinfo/biz/health/ntcnInfo/notice/noticeView.do?notice_sn=281"
  }
 ]
